@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M. Avatar Setting
+title: ⚙️M. Avatar Setting
 nav_order: 2
 has_children: true
 permalink: /avatar-setting/
@@ -59,8 +59,8 @@ M. Avatar Settingには、アバターの設定を自動化するいくつかの
 
 M. Avatar Settingでは、アバターの種類によって表示される設定が異なります。
 
-* [Mennoの設定](/menno/) - Mennoアバター固有の設定
+* [Mennoの設定](../menno/) - Mennoアバター固有の設定
 
 ## その他の機能
 
-* [更新履歴](/avatar-setting/history/) - M. Avatar Settingとアバターのアップデート情報 
+* [更新履歴](history/) - M. Avatar Settingとアバターのアップデート情報 

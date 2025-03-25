@@ -3,7 +3,7 @@ layout: default
 title: 📄 ライセンス
 parent: ⚙️M. Avatar Setting
 nav_order: 5
-permalink: /avatar-setting/license/
+permalink: avatar-setting/license/
 ---
 
 # M. Avatar Setting ライセンス

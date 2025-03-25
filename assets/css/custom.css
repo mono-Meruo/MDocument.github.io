@@ -1,0 +1,207 @@
+/* カスタムCSS */
+
+/* ナビゲーションアイコン - すべてのデバイス用 */
+/* ナビゲーションリストの絵文字 */
+.navigation-list > .navigation-list-item > .navigation-list-link::before {
+  content: "🔹";
+  margin-right: 0.5em;
+}
+
+/* サブメニューの絵文字 */
+.navigation-list-child-list > .navigation-list-item > .navigation-list-link::before {
+  content: "📄";
+  margin-right: 0.5em;
+}
+
+/* 特定のセクションの絵文字カスタマイズ */
+.navigation-list > .navigation-list-item:nth-child(1) > .navigation-list-link::before {
+  content: "🏠";
+}
+
+.navigation-list > .navigation-list-item:nth-child(2) > .navigation-list-link::before {
+  content: "⚙️";
+}
+
+.navigation-list > .navigation-list-item:nth-child(3) > .navigation-list-link::before {
+  content: "👤";
+}
+
+/* サイドバーの調整 */
+@media (min-width: 50rem) {
+  .side-bar {
+    width: calc((100% - 1064px) / 2 + 264px);
+    min-width: 264px;
+    background-color: var(--sidebar-color);
+    border-right: 1px solid var(--border-color);
+  }
+  
+  /* サイドバー内の要素の調整 */
+  .navigation-list-item {
+    padding: 0.25em 0;
+    list-style: none;
+  }
+  
+  .navigation-list-link {
+    padding: 0.25em 0.5em;
+    border-radius: 4px;
+    transition: background-color 0.2s ease;
+  }
+  
+  .navigation-list-link:hover {
+    background-color: rgba(120, 130, 140, 0.1);
+  }
+  
+  .navigation-list-link.active {
+    font-weight: 600;
+    color: var(--link-color);
+    background-color: rgba(120, 130, 140, 0.05);
+  }
+  
+  .site-title {
+    font-size: 1.25rem !important;
+    font-weight: 600;
+    margin: 0.5rem 0;
+  }
+  
+  .site-header {
+    border-bottom: 1px solid var(--border-color);
+    min-height: 60px;
+  }
+  
+  .navigation-list-child-list {
+    padding-left: 1rem;
+    margin-top: 0.25rem;
+  }
+}
+
+/* モバイル表示の調整 */
+@media (max-width: 50rem) {
+  .navigation-list-item {
+    padding: 0.25em 0;
+    list-style: none;
+  }
+  
+  .navigation-list-link {
+    padding: 0.5em;
+    display: block;
+  }
+  
+  .navigation-list-child-list {
+    padding-left: 1.5rem;
+  }
+}
+
+/* デフォルトでダークモードスタイルを適用 */
+:root {
+  --background-color: #2B3035;
+  --sidebar-color: #22262a;
+  --body-text-color: #CCCCCC;
+  --body-heading-color: #ffffff;
+  --link-color: #ffffff;
+  --nav-child-link-color: #ffffff;
+  --border-color: #444444;
+}
+
+/* ダークモード調整 */
+.dark-mode,
+html:not(.light-mode) {
+  --background-color: #2B3035;
+  --sidebar-color: #22262a;
+  --body-text-color: #CCCCCC;
+  --body-heading-color: #ffffff;
+  --link-color: #ffffff;
+  --nav-child-link-color: #ffffff;
+  --border-color: #444444;
+}
+
+/* ライトモード調整 (light-modeクラスがある場合のみ適用) */
+.light-mode {
+  --background-color: #ffffff;
+  --sidebar-color: #f5f6fa;
+  --body-text-color: #3f5168;
+  --body-heading-color: #27262b;
+  --link-color: #0d6efd;
+  --nav-child-link-color: #0d6efd;
+  --border-color: #dce6f0;
+}
+
+/* 最も優先順位の高いセレクタでスタイルを適用 */
+html, body {
+  background-color: #2B3035 !important;
+  color: #CCCCCC !important;
+}
+
+html.light-mode, html.light-mode body {
+  background-color: #ffffff !important;
+  color: #3f5168 !important;
+}
+
+/* 既存のボディスタイル */
+body {
+  background-color: var(--background-color) !important;
+  color: var(--body-text-color) !important;
+}
+
+.side-bar {
+  background-color: var(--sidebar-color) !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--body-heading-color) !important;
+}
+
+.navigation-list-link:hover {
+  background-color: rgba(180, 190, 200, 0.1);
+}
+
+/* リンクの色設定 */
+a, .site-title, .site-button, .search-input {
+  color: var(--link-color) !important;
+}
+
+a:hover {
+  color: #E0E0E0 !important;
+  text-decoration: underline;
+}
+
+.main-content a {
+  color: var(--link-color) !important;
+  text-decoration: underline;
+}
+
+.main-content a:hover {
+  color: #E0E0E0 !important;
+} 
+
+/* コードブロックの背景色 */
+.highlighter-rouge .highlight {
+  background-color: #1c2128 !important;
+}
+
+/* 検索入力欄 */
+.search-input {
+  background-color: var(--sidebar-color) !important;
+  border-color: var(--border-color) !important;
+}
+
+/* メインコンテンツエリア */
+.main-content, .main {
+  background-color: var(--background-color) !important;
+}
+
+/* テーブル */
+.table-wrapper {
+  background-color: var(--background-color) !important;
+}
+
+table th, table td {
+  background-color: var(--background-color) !important;
+  color: var(--body-text-color) !important;
+  border-color: var(--border-color) !important;
+}
+
+/* 強制的に適用するためのクラス */
+.dark-theme-applied {
+  background-color: #2B3035 !important;
+  color: #CCCCCC !important;
+} 

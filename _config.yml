@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: M. Document
+description: M. Avatar シリーズのドキュメント
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://mono-meruo.github.io
+baseurl: /MDocument.github.io
+color_scheme: dark
+aux_links: {}
+footer_content: Copyright &copy; 2025 M.
+github_editme_path: mono-Meruo/MDocument.github.io/edit/main/

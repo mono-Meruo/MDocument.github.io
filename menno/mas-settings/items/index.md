@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ⚙️アイテムの設定
-parent: M. Avatar Setting設定
+parent: ⚙️M. Avatar Setting設定
 grand_parent: Menno
 nav_order: 3
 permalink: /menno/mas-settings/items/

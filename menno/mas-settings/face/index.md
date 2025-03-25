@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ⚙️顔の設定
-parent: M. Avatar Setting設定
+parent: ⚙️M. Avatar Setting設定
 grand_parent: Menno
 nav_order: 1
 permalink: /menno/mas-settings/face/

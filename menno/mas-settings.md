@@ -1,6 +1,6 @@
 ---
 layout: default
-title: M. Avatar Setting設定
+title: ⚙️M. Avatar Setting設定
 parent: Menno
 has_children: true
 nav_order: 5

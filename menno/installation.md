@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 導入方法
+title: ⬇️導入方法
 parent: Menno
 nav_order: 1
 permalink: /menno/installation/

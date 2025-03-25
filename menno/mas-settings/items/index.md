@@ -1,6 +1,6 @@
 ---
 layout: default
-title: アイテムの設定
+title: ⚙️アイテムの設定
 parent: M. Avatar Setting設定
 grand_parent: Menno
 nav_order: 3

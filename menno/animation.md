@@ -8,45 +8,6 @@ permalink: /menno/animation/
 
 # Menno - アニメーション構造
 
-このページでは、Mennoアバターのアニメーションシステムについて説明します。Mennoは、VRChatのAvatars 3.0システムを採用しており、複数のアニメーションレイヤーとパラメーターによって様々な表情や動きを実現しています。
-
-## VRChat Avatars 3.0システムについて
-
-VRChatのAvatars 3.0システムでは、アバターのアニメーションは以下の主要なレイヤーで構成されています：
-
-- **Base** - 基本的な動き（歩行、走行、ジャンプなど）
-- **Additive** - 基本動作に追加される動き
-- **Gesture** - 手のジェスチャーを制御
-- **Action** - アクションや特殊な動き
-- **FX** - 表情やアイテムの表示/非表示など
-
-Mennoでは、主に**FX**レイヤーと**Gesture**レイヤーをカスタマイズがされています。
-
-### VRChat Avatars 3.0の構造
-
-VRChat Avatars 3.0では、以下の3つの要素がアバターのアニメーションを制御しています：
-
-1. **アニメーションコントローラー** - アニメーションの状態と遷移を管理
-2. **Expression Parameters** - アバターのパラメーターを定義
-3. **Expression Menu** - ユーザーが操作するメニュー
-
-これらが連携して、アバターの表情や動きを制御します。
-
-```
-┌─────────────────┐       ┌──────────────────┐       ┌─────────────────┐
-│ Expression Menu │──────▶│ Parameter Values │◀─────▶│ Animation       │
-│ (UI操作)        │       │ (状態管理)        │       │ Controller      │
-└─────────────────┘       └──────────────────┘       │ (アニメーション) │
-                                  ▲                  └─────────────────┘
-                                  │                          ▲
-                                  │                          │
-                                  ▼                          │
-                          ┌──────────────────┐              │
-                          │ Gesture          │──────────────┘
-                          │ (ハンドジェスチャー)│
-                          └──────────────────┘
-```
-
 ## アニメーションフォルダ構造
 
 Mennoのアニメーション関連ファイルは、以下のフォルダに整理されています：
@@ -60,7 +21,7 @@ Assets/emudotto/Menno/Animation/
 ├── Gesture/ - ジェスチャーアニメーション
 ├── Locomotion/ - 移動アニメーション
 ├── ModularAvatar/ - ModularAvatar拡張
-└── Parameters/ - メニューとパラメーター設定
+└── Parameters/ - VRChatSDKのメニューとパラメーター設定
 ```
 
 ## アニメーションコントローラー
@@ -89,35 +50,20 @@ Menno_Layer_FX.controller
 
 ### Menno_Layer_Gesture.controller
 
-`AnimaitonLayer/Menno_Layer_Gesture.controller`は、手のジェスチャーとそれに連動する表情を制御します。
-
-ジェスチャーコントローラーの構造は以下のようになっています：
-
-```
-Menno_Layer_Gesture.controller
-├── 左手ステートマシン
-│   ├── Fist (グー)
-│   ├── HandOpen (パー)
-│   ├── FingerPoint (人差し指)
-│   └── その他のジェスチャー...
-└── 右手ステートマシン
-    ├── Fist (グー)
-    ├── HandOpen (パー)
-    ├── FingerPoint (人差し指)
-    └── その他のジェスチャー...
-```
+`AnimaitonLayer/Menno_Layer_Gesture.controller`は、手のジェスチャーを制御します。
 
 ### Menno_Props.controller & Menno_Props_Gesture.controller
 
 これらのコントローラーは、アイテムのトグル操作と関連するジェスチャーを制御します。
+Modular Avatarによりアップロード後、FXレイヤーと統合されます。
 
 ## 表情アニメーション (FX_Face)
 
-Mennoアバターは、以下のような豊富な表情アニメーションを持っています：
+デフォルトのMennoアバターは、以下のような表情アニメーションを持っています：
 
 | アニメーション名 | 説明 |
 |--------------|------|
-| Menno_初期状態_Base | 基本表情 |
+| Menno_初期状態_Base | 初期状態 |
 | Menno_笑顔_Smile | 笑顔 |
 | Menno_悲しみ_Sad | 悲しい表情 |
 | Menno_怒り_Angry | 怒った表情 |
@@ -137,9 +83,9 @@ Mennoアバターは、以下のような豊富な表情アニメーションを
 体のアニメーションには以下のようなものがあります：
 
 - **Menno_Body_Lighting** - 体のライティング調整
-- **Menno_Body_Cheek** - 頬の赤みの調整
-- **Menno_Body_Cheek_L** - 左頬の赤み
-- **Menno_Body_Cheek_R** - 右頬の赤み
+- **Menno_Body_Cheek** - PhysBoneによって頬が引っ張られます
+- **Menno_Body_Cheek_L** - PhysBoneによって左頬が引っ張られます
+- **Menno_Body_Cheek_R** - PhysBoneによって右頬が引っ張られます
 
 ## パラメーター設定 (Parameters)
 
@@ -159,15 +105,15 @@ Mennoアバターでは、以下のExpressionMenuとParametersが使用されて
 | VRCFaceBlendV | Float | 垂直方向の表情ブレンド（VRChat標準） |
 | GestureLeft | Int | 左手のジェスチャー（VRChat標準） |
 | GestureRight | Int | 右手のジェスチャー（VRChat標準） |
-| GestureLeftWeight | Float | 左手のジェスチャーの強さ |
-| GestureRightWeight | Float | 右手のジェスチャーの強さ |
+| GestureLeftWeight | Float | 左手のジェスチャーの強さ（VRChat標準）  |
+| GestureRightWeight | Float | 右手のジェスチャーの強さ（VRChat標準）  |
 | FacialExpression | Int | 表情の選択 |
 | BodyLighting | Float | 体のライティング調整 |
-| Cheek | Bool | 頬の赤みの表示/非表示 |
-| CheekLeft | Bool | 左頬の赤みの表示/非表示 |
-| CheekRight | Bool | 右頬の赤みの表示/非表示 |
+| Cheek | Bool | 頬のひっぱりON/OFF |
+| CheekLeft | Bool | 左頬のひっぱりON/OFF |
+| CheekRight | Bool | 左頬のひっぱりON/OFF |
 | TogglePan | Bool | フライパンの表示/非表示 |
-| ToggleXondle | Bool | キャンドルの表示/非表示 |
+| ToggleXondle | Bool | Xondle・Xontraの表示/非表示 |
 | ToggleMokia | Bool | 携帯電話の表示/非表示 |
 
 ## 表情の使い方

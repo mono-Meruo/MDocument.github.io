@@ -3,7 +3,7 @@ layout: default
 title: シェイプキー一覧
 parent: Menno
 nav_order: 6
-permalink: /menno/shapekeys/
+permalink: /menno/shapekeys
 ---
 
 # シェイプキー一覧と説明

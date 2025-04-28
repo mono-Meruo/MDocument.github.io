@@ -2,20 +2,22 @@
 layout: default
 title: Menno
 nav_order: 2
-language: ja
+has_children: true
+permalink: /menno/
+lang: ja
 ---
 
 # Welcome to Menno 3D Model Documentation!
 
 ## 目次
 
-- [インストール方法](../installation/)
-- [モデル構造](../structure/)
-- [カスタマイズ](../customization/)
-- [アニメーション](../animation/)
-- [シェイプキー](../shapekeys/)
-- [MASの設定](../mas-settings/)
-- [クリエイターガイド](../creator-guide/)
+- [インストール方法](/menno/installation/)
+- [モデル構造](/menno/structure/)
+- [カスタマイズ](/menno/customization/)
+- [アニメーション](/menno/animation/)
+- [シェイプキー](/menno/shapekeys/)
+- [MASの設定](/menno/mas-settings/)
+- [クリエイターガイド](/menno/creator-guide/)
 
 ## アバター情報
 

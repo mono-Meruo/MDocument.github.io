@@ -30,7 +30,7 @@ Mennoアバター用のM. Avatar Settingでは、以下の設定カテゴリが�
 ## 使用方法
 
 1. Mennoアバターをシーンに配置します
-2. M. Avatar Settingウィンドウを開きます（[開き方の詳細](../avatar-setting/)）
+2. M. Avatar Settingウィンドウを開きます（[開き方の詳細](https://mono-meruo.github.io/MDocument.github.io/avatar-setting/)）
 3. 必要に応じて各設定カテゴリを展開し、パラメータを調整します
 4. 設定は自動的に保存され、次回も適用されます
 

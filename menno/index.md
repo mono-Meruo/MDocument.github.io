@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Menno
 nav_order: 4
 has_children: true
@@ -13,13 +13,13 @@ lang: ja
 
 ## 目次
 
-- [インストール方法](installation.md)
-- [モデル構造](structure.md)
-- [カスタマイズ](customization.md)
-- [アニメーション](animation.md)
-- [シェイプキー](shapekeys.md)
-- [MASの設定](mas-settings.md)
-- [クリエイターガイド](creator-guide.md)
+- [インストール方法](/menno/installation/)
+- [モデル構造](/menno/structure/)
+- [カスタマイズ](/menno/customization/)
+- [アニメーション](/menno/animation/)
+- [シェイプキー](/menno/shapekeys/)
+- [MASの設定](/menno/mas-settings/)
+- [クリエイターガイド](/menno/creator-guide/)
 
 # Menno アバター
 

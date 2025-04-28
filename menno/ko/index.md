@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Menno
 nav_order: 4
 has_children: true
@@ -13,13 +13,13 @@ lang: ko
 
 ## 목차
 
-- [설치](installation.md)
-- [모델 구조](structure.md)
-- [커스터마이징](customization.md)
-- [애니메이션](animation.md)
-- [셰이프키](shapekeys.md)
-- [MAS 설정](mas-settings.md)
-- [크리에이터 가이드](creator-guide.md)
+- [설치](/menno/installation/)
+- [모델 구조](/menno/structure/)
+- [커스터마이징](/menno/customization/)
+- [애니메이션](/menno/animation/)
+- [셰이프키](/menno/shapekeys/)
+- [MAS 설정](/menno/mas-settings/)
+- [크리에이터 가이드](/menno/creator-guide/)
 
 # Menno 아바타
 

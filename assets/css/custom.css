@@ -204,4 +204,48 @@ table th, table td {
 .dark-theme-applied {
   background-color: #2B3035 !important;
   color: #CCCCCC !important;
+}
+
+/* カスタムスタイル */
+
+.language-switch {
+  display: flex;
+  justify-content: flex-end;
+  padding: 0.5rem 2rem;
+  background-color: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+}
+
+.language-switch ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 15px;
+}
+
+.language-switch li {
+  padding: 4px 8px;
+  border-radius: 4px;
+}
+
+.language-switch li.current {
+  font-weight: bold;
+  background-color: var(--color-bg-secondary);
+}
+
+.language-switch a {
+  text-decoration: none;
+  color: var(--color-text);
+}
+
+.language-switch a:hover {
+  text-decoration: underline;
+  color: var(--color-primary);
+}
+
+@media (max-width: 800px) {
+  .language-switch {
+    padding: 0.5rem 1rem;
+  }
 } 

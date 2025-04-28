@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Menno
 nav_order: 4
 has_children: true
@@ -13,13 +13,13 @@ Welcome to the official documentation for the 3D model "Menno".
 
 ## Table of Contents
 
-- [Installation](installation.md)
-- [Model Structure](structure.md)
-- [Customization](customization.md)
-- [Animation](animation.md)
-- [Shape Keys](shapekeys.md)
-- [MAS Settings](mas-settings.md)
-- [Creator Guide](creator-guide.md)
+- [Installation](/menno/installation/)
+- [Model Structure](/menno/structure/)
+- [Customization](/menno/customization/)
+- [Animation](/menno/animation/)
+- [Shape Keys](/menno/shapekeys/)
+- [MAS Settings](/menno/mas-settings/)
+- [Creator Guide](/menno/creator-guide/)
 
 # Menno Avatar
 

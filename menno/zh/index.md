@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Menno
 nav_order: 4
 has_children: true
@@ -13,13 +13,13 @@ lang: zh
 
 ## 目录
 
-- [安装](installation.md)
-- [模型结构](structure.md)
-- [定制化](customization.md)
-- [动画](animation.md)
-- [形态键](shapekeys.md)
-- [MAS设置](mas-settings.md)
-- [创作者指南](creator-guide.md)
+- [安装](/menno/installation/)
+- [模型结构](/menno/structure/)
+- [定制化](/menno/customization/)
+- [动画](/menno/animation/)
+- [形态键](/menno/shapekeys/)
+- [MAS设置](/menno/mas-settings/)
+- [创作者指南](/menno/creator-guide/)
 
 # Menno 虚拟形象
 

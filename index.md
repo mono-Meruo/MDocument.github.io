@@ -20,4 +20,4 @@ VRChat用のアバターとカスタマイズツールの概要を説明しま�
 
 * [**M. Avatar Setting**]({{ site.baseurl }}/avatar-setting/) - アバターカスタマイズツール
 
-*最終更新: 2024年7月*
+*最終更新: 2025年4月*

@@ -4,6 +4,7 @@ title: アニメーション構造
 parent: Menno
 nav_order: 4
 permalink: /menno/animation/
+lang: ja
 ---
 
 # Menno - アニメーション構造

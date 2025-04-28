@@ -13,13 +13,13 @@ lang: ko
 
 ## 목차
 
-- [설치](/menno/installation/)
-- [모델 구조](/menno/structure/)
-- [커스터마이징](/menno/customization/)
-- [애니메이션](/menno/animation/)
-- [셰이프키](/menno/shapekeys/)
-- [MAS 설정](/menno/mas-settings/)
-- [크리에이터 가이드](/menno/creator-guide/)
+- [설치]({{ site.baseurl }}/menno/installation/)
+- [모델 구조]({{ site.baseurl }}/menno/structure/)
+- [커스터마이징]({{ site.baseurl }}/menno/customization/)
+- [애니메이션]({{ site.baseurl }}/menno/animation/)
+- [셰이프키]({{ site.baseurl }}/menno/shapekeys/)
+- [MAS 설정]({{ site.baseurl }}/menno/mas-settings/)
+- [크리에이터 가이드]({{ site.baseurl }}/menno/creator-guide/)
 
 # Menno 아바타
 

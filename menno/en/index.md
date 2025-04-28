@@ -13,13 +13,13 @@ Welcome to the official documentation for the 3D model "Menno".
 
 ## Table of Contents
 
-- [Installation](/menno/installation/)
-- [Model Structure](/menno/structure/)
-- [Customization](/menno/customization/)
-- [Animation](/menno/animation/)
-- [Shape Keys](/menno/shapekeys/)
-- [MAS Settings](/menno/mas-settings/)
-- [Creator Guide](/menno/creator-guide/)
+- [Installation]({{ site.baseurl }}/menno/installation/)
+- [Model Structure]({{ site.baseurl }}/menno/structure/)
+- [Customization]({{ site.baseurl }}/menno/customization/)
+- [Animation]({{ site.baseurl }}/menno/animation/)
+- [Shape Keys]({{ site.baseurl }}/menno/shapekeys/)
+- [MAS Settings]({{ site.baseurl }}/menno/mas-settings/)
+- [Creator Guide]({{ site.baseurl }}/menno/creator-guide/)
 
 # Menno Avatar
 

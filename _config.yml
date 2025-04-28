@@ -2,7 +2,7 @@ title: M. Document
 description: M. Avatar シリーズのドキュメント
 theme: just-the-docs
 url: https://mono-meruo.github.io
-baseurl: /MDocument.github.io
+baseurl: ""
 color_scheme: dark
 aux_links: {}
 footer_content: Copyright &copy; 2025 M.

@@ -13,13 +13,13 @@ lang: ja
 
 ## 目次
 
-- [インストール方法](/menno/installation/)
-- [モデル構造](/menno/structure/)
-- [カスタマイズ](/menno/customization/)
-- [アニメーション](/menno/animation/)
-- [シェイプキー](/menno/shapekeys/)
-- [MASの設定](/menno/mas-settings/)
-- [クリエイターガイド](/menno/creator-guide/)
+- [インストール方法]({{ site.baseurl }}/menno/installation/)
+- [モデル構造]({{ site.baseurl }}/menno/structure/)
+- [カスタマイズ]({{ site.baseurl }}/menno/customization/)
+- [アニメーション]({{ site.baseurl }}/menno/animation/)
+- [シェイプキー]({{ site.baseurl }}/menno/shapekeys/)
+- [MASの設定]({{ site.baseurl }}/menno/mas-settings/)
+- [クリエイターガイド]({{ site.baseurl }}/menno/creator-guide/)
 
 # Menno アバター
 

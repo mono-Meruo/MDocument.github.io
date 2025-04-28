@@ -7,3 +7,13 @@ color_scheme: dark
 aux_links: {}
 footer_content: Copyright &copy; 2025 M.
 github_editme_path: mono-Meruo/MDocument.github.io/edit/main/
+
+# Polyglot 多言語設定
+languages: ["ja", "en", "ko", "zh"]
+default_lang: "ja"
+exclude_from_localization: ["assets", "images", "css", "_site", ".jekyll-cache"]
+parallel_localization: false  # Windows環境では false に設定
+
+# プラグイン設定
+plugins:
+  - jekyll-polyglot

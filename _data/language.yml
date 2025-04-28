@@ -1,0 +1,12 @@
+ja:
+  name: 日本語
+  code: ja-JP
+en:
+  name: English
+  code: en-US
+ko:
+  name: 한국어
+  code: ko-KR
+zh:
+  name: 中文
+  code: zh-CN 

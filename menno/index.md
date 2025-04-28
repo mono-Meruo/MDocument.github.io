@@ -4,6 +4,7 @@ title: Menno
 nav_order: 4
 has_children: true
 permalink: /menno/
+lang: ja
 ---
 
 # Menno ドキュメント
@@ -19,8 +20,6 @@ permalink: /menno/
 - [シェイプキー](shapekeys.md)
 - [MASの設定](mas-settings.md)
 - [クリエイターガイド](creator-guide.md)
-
-最終更新日：2023年12月23日
 
 # Menno アバター
 

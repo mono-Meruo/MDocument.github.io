@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: custom
 title: ⚙️髪の毛の設定
 parent: ⚙️M. Avatar Setting設定
 grand_parent: Menno
 nav_order: 2
 permalink: /menno/mas-settings/hair/
+lang: ja
 ---
 
 # Menno - 髪の毛の設定

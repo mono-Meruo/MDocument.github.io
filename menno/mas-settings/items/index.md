@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: custom
 title: ⚙️アイテムの設定
 parent: ⚙️M. Avatar Setting設定
 grand_parent: Menno
 nav_order: 3
 permalink: /menno/mas-settings/items/
+lang: ja
 ---
 
 # Menno - アイテムの設定
@@ -44,7 +45,7 @@ Mennoアバターには、VRChat上で切り替え可能な特別なアイテム
 ### 利用可能なトグルアイテム
 
 * **Pan** - フライパン
-* **Xondle** - キャンドル
+* **Xondle** - Xondle
 * **Mokia** - 携帯電話
 
 ### トグルアイテムの設定

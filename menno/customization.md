@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: custom
 title: 改変方法
 parent: Menno
 nav_order: 2
 permalink: /menno/customization/
+lang: ja
 ---
 
 # Menno - 改変方法

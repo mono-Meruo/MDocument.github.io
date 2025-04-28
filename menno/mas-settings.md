@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: custom
 title: ⚙️M. Avatar Setting設定
 parent: Menno
 has_children: true
 nav_order: 5
 permalink: /menno/mas-settings/
+lang: ja
 ---
 
 # Menno - M. Avatar Setting設定

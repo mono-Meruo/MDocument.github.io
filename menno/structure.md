@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: custom
 title: 構造説明
 parent: Menno
 nav_order: 3
 permalink: /menno/structure/
+lang: ja
 ---
 
 # Menno - 構造説明

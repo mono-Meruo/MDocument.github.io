@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: custom
 title: ⬇️導入方法
 parent: Menno
 nav_order: 1
 permalink: /menno/installation/
+lang: ja
 ---
 
 # Menno - 導入方法

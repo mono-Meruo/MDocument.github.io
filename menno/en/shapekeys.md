@@ -13,11 +13,13 @@ Shape keys are functions that transform the shape of a 3D model. The Menno model
 
 ## Shape Keys Overview
 
-### Facial Shape Keys (Total 832, including 608 functional shape keys)
+### Facial Shape Keys (Total 697 functional shape keys, excluding empty and divider shape keys)
 
 | Category | Count | Description |
 |---------|------|-------------|
 | VRC | 18 | VRChat shape keys (v_aa, v_ch, v_dd, etc. for voice recognition and gaze control) |
+| MMD | 47 | MikuMikuDance compatible expressions (a-i-u-e-o, smile, wink, etc.) |
+| Perfect-Sync | 52 | Experimental shape keys for expression synchronization |
 | EYE | 51 | Eye expression control (closing, smiling, raised, lowered, half-closed, etc.) |
 | EYE_EX | 3 | Eye shader effects (Shader_ON, Shader_Big, Grabpass_ON, etc.) |
 | EYE_Action | 7 | Eye special effects (tears, hearts, spinning, shock, stars, etc.) |
@@ -39,9 +41,8 @@ Shape keys are functions that transform the shape of a 3D model. The Menno model
 | EAR_Option | 6 | Ear adjustments (elf ears, size, etc.) |
 | JAW_Option | 14 | Jaw adjustments (roundness, jaw shape, length, sharpness, etc.) |
 | SHRINK_Option | 2 | Face part shrinking (neck, ears) |
-| MMD | 47 | MikuMikuDance compatible expressions (a-i-u-e-o, smile, wink, etc.) |
-| Perfect-Sync | 52 | Experimental shape keys for expression synchronization |
 | Empty for Updates | 183 | Reserved shape keys for updates |
+| Divider Shape Keys | 16 | Section dividers |
 
 Each category includes shape keys not only for both eyes but also for the left eye (_L) and right eye (_R), allowing for asymmetrical expressions.
 

@@ -144,6 +144,6 @@ Main Menu
 │       └── ...
 └── Items
     ├── Frying Pan
-    ├── Candle
-    └── Mobile Phone
+    ├── Xondle
+    └── Mokia
 ``` 

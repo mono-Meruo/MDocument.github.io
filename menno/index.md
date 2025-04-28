@@ -1,37 +1,31 @@
 ---
-layout: custom
+layout: default
 title: Menno
-nav_order: 4
-has_children: true
-permalink: /menno/
-lang: ja
+nav_order: 2
+language: ja
 ---
 
-# Menno ドキュメント
-
-3Dモデル「Menno」の公式ドキュメントへようこそ。
+# Welcome to Menno 3D Model Documentation!
 
 ## 目次
 
-- [インストール方法]({{ site.baseurl }}/menno/installation/)
-- [モデル構造]({{ site.baseurl }}/menno/structure/)
-- [カスタマイズ]({{ site.baseurl }}/menno/customization/)
-- [アニメーション]({{ site.baseurl }}/menno/animation/)
-- [シェイプキー]({{ site.baseurl }}/menno/shapekeys/)
-- [MASの設定]({{ site.baseurl }}/menno/mas-settings/)
-- [クリエイターガイド]({{ site.baseurl }}/menno/creator-guide/)
-
-# Menno アバター
-
-Mennoは、M. Avatarシリーズの第二作目です。
+- [インストール方法](../installation/)
+- [モデル構造](../structure/)
+- [カスタマイズ](../customization/)
+- [アニメーション](../animation/)
+- [シェイプキー](../shapekeys/)
+- [MASの設定](../mas-settings/)
+- [クリエイターガイド](../creator-guide/)
 
 ## アバター情報
 
-- **対応プラットフォーム**: PC-VRChat
-- **推奨Unityバージョン**: Unity 2022.3.x
-- **ポリゴン数**: 
-- **テクスチャ解像度**: 
+| 項目 | 内容 |
+|---|---|
+| プラットフォーム | PC-VRChat |
+| 推奨Unityバージョン | Unity 2022.3.x |
+| ポリゴン数 | TBD |
+| テクスチャ解像度 | TBD |
 
 ## サポート
 
-問題や質問がある場合は、[X(Twitter)](https://x.com/_emudotto)でお知らせください。 
+質問や問題がある場合は、[Twitter](https://twitter.com/mono_meruo)にてご連絡ください。 

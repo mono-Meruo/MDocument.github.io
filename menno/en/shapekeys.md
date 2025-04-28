@@ -1,45 +1,46 @@
 ---
 layout: default
-title: Shape Key List
+title: Shape Keys List
 parent: Menno
 nav_order: 6
 permalink: /menno/shapekeys
 lang: en
 ---
 
-# Shape Key List and Description
+# Shape Keys List and Description
 
-Shape keys are features that transform the shape of 3D models. The Menno model has a total of 606 shape keys implemented, allowing for detailed adjustments to character expressions and body shapes.
+Shape keys are functions that transform the shape of a 3D model. The Menno model has a total of 884 shape keys implemented, allowing for detailed adjustments to the character's facial expressions and body shape.
 
-## Shape Key Overview
+## Shape Keys Overview
 
-### Facial Shape Keys (Total 564)
+### Facial Shape Keys (Total 832, including 608 functional shape keys)
 
 | Category | Count | Description |
-|---------|-----|------|
-| VRC | 18 | Shape keys for VRChat (v_aa, v_ch, v_dd, etc. for voice recognition and eye control) |
-| EYE | 51 | Control eye expressions (close, smile, upturned eyes, downturned eyes, half-closed eyes, etc.) |
+|---------|------|-------------|
+| VRC | 18 | VRChat shape keys (v_aa, v_ch, v_dd, etc. for voice recognition and gaze control) |
+| EYE | 51 | Eye expression control (closing, smiling, raised, lowered, half-closed, etc.) |
 | EYE_EX | 3 | Eye shader effects (Shader_ON, Shader_Big, Grabpass_ON, etc.) |
-| EYE_Action | 7 | Special eye effects (tears, hearts, swirls, shocked, stars, etc.) |
+| EYE_Action | 7 | Eye special effects (tears, hearts, spinning, shock, stars, etc.) |
 | EYE_Option | 67 | Detailed eye adjustments (light, dark circles, position, size, spacing, etc.) |
-| PUPIL_Option | 35 | Pupil adjustments (white pupils, converge, diverge, size, forward/backward movement, etc.) |
+| PUPIL_Option | 35 | Pupil adjustments (white pupils, convergence, divergence, size, forward/backward movement, etc.) |
 | IRIS_Option | 18 | Sclera adjustments (blur, size, forward/backward movement, etc.) |
-| EYELID_Option | 74 | Eyelid adjustments (tip, end, detailed movements for upper/lower/left/right, etc.) |
-| EYELASH | 12 | Eyelash expressions (thin eyes, sleepy eyes, gentle eyes, etc.) |
-| EYELASH_Option | 48 | Eyelash adjustments (thickness, length, position of upper/lower eyelashes, etc.) |
-| EYEBROW | 48 | Eyebrow expressions (up/down, smile, anger, worry, movements of each part, etc.) |
+| EYELID_Option | 74 | Eyelid adjustments (ends, starts, detailed up/down/left/right movements, etc.) |
+| EYELASH | 12 | Eyelash expressions (thin eyes, sleepy eyes, soft eyes, etc.) |
+| EYELASH_Option | 48 | Eyelash adjustments (thickness, length, position of upper/lower lashes, etc.) |
+| EYEBROW | 48 | Eyebrow expressions (raising/lowering, smiling, angry, worried, movement by specific areas, etc.) |
 | EYEBROW_Option | 10 | Eyebrow adjustments (thickness, shape, position, etc.) |
 | MOUTH | 53 | Mouth expressions (a-i-u-e-o, smile, grin, triangle, ω, various shapes) |
-| MOUTH_Option | 8 | Mouth adjustments (fangs, front/back position, cheeks, etc.) |
-| TONGUE | 12 | Tongue expressions (sticking out, bend, front/back/up/down movements, etc.) |
-| TONGUE_Option | 6 | Tongue adjustments (thin, thick, flat, thick, length, etc.) |
+| MOUTH_Option | 8 | Mouth adjustments (fangs, forward/backward position, cheeks, etc.) |
+| TONGUE | 12 | Tongue expressions (sticking out, bending, forward/backward/up/down movement, etc.) |
+| TONGUE_Option | 6 | Tongue adjustments (thin, thick, flat, length, etc.) |
 | TEETH_Option | 15 | Teeth adjustments (fangs, jagged, upper/lower position, etc.) |
-| FACE | 6 | Whole face effects (blush, shocked, wrinkles, etc.) |
-| NOSE_Option | 7 | Nose adjustments (up/down/left/right, front/back position, etc.) |
+| FACE | 6 | Full face effects (blush, shock, wrinkles, etc.) |
+| NOSE_Option | 7 | Nose adjustments (up/down/left/right, forward/backward position, etc.) |
 | EAR_Option | 6 | Ear adjustments (elf ears, size, etc.) |
 | JAW_Option | 14 | Jaw adjustments (roundness, jaw shape, length, sharpness, etc.) |
-| SHRINK_Option | 2 | Shrinking facial parts (neck, ears) |
-| MMD | 47 | MikuMikuDance compatible expressions (a-i-u-e-o, grin, wink, etc.) |
+| SHRINK_Option | 2 | Face part shrinking (neck, ears) |
+| MMD | 47 | MikuMikuDance compatible expressions (a-i-u-e-o, smile, wink, etc.) |
+| Perfect-Sync | 52 | Experimental shape keys for expression synchronization |
 | Empty for Updates | 183 | Reserved shape keys for updates |
 
 Each category includes shape keys not only for both eyes but also for the left eye (_L) and right eye (_R), allowing for asymmetrical expressions.
@@ -88,6 +89,19 @@ By using these numbered shape keys (01, 02, etc.), you can freely adjust specifi
 ## About Empty Shape Keys
 
 When updating in Unity, inserting new shape keys can shift the order of existing shape keys, causing inconsistencies with previously set values. To prevent this, many empty shape keys (Empty) are placed in advance. During updates, these Empty shape keys are used to add new features.
+
+## About Perfect-Sync Shape Keys (Experimental)
+
+Perfect-Sync is an experimental set of shape keys designed for more natural expression synchronization. It enables fine control over various facial movements:
+
+- Eyebrow movements (inner up, outer up, down, etc.)
+- Eye movements (up/down/left/right, blinking, squinting, etc.)
+- Cheek movements (puffing, tightening, etc.)
+- Nose movements (wrinkles, etc.)
+- Jaw movements (opening/closing, forward/backward/left/right, etc.)
+- Mouth movements (various shapes and expressions)
+
+These shape keys are in the experimental stage and may be subject to changes in future updates.
 
 ## How to Use Shape Keys
 

@@ -6,6 +6,22 @@ has_children: true
 permalink: /menno/
 ---
 
+# Menno ドキュメント
+
+3Dモデル「Menno」の公式ドキュメントへようこそ。
+
+## 目次
+
+- [インストール方法](installation.md)
+- [モデル構造](structure.md)
+- [カスタマイズ](customization.md)
+- [アニメーション](animation.md)
+- [シェイプキー](shapekeys.md)
+- [MASの設定](mas-settings.md)
+- [クリエイターガイド](creator-guide.md)
+
+最終更新日：2023年12月23日
+
 # Menno アバター
 
 Mennoは、M. Avatarシリーズの第二作目です。

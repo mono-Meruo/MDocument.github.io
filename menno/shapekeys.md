@@ -2,8 +2,8 @@
 layout: custom
 title: シェイプキー一覧
 parent: Menno
-nav_order: 6
-permalink: /menno/shapekeys
+nav_order: 7
+permalink: /menno/shapekeys/
 lang: ja
 ---
 

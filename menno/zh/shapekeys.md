@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: custom
 title: 形状键列表
 parent: Menno
-nav_order: 6
-permalink: /menno/shapekeys
+nav_order: 7
+permalink: /menno/shapekeys/
 lang: zh
 ---
 

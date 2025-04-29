@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: custom
 title: 셰이프키 목록
 parent: Menno
-nav_order: 6
-permalink: /menno/shapekeys
+nav_order: 7
+permalink: /menno/shapekeys/
 lang: ko
 ---
 

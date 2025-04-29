@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: custom
 title: Shape Keys List
 parent: Menno
-nav_order: 6
-permalink: /menno/shapekeys
+nav_order: 7
+permalink: /menno/shapekeys/
 lang: en
 ---
 

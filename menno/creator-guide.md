@@ -2,7 +2,7 @@
 layout: custom
 title: 🎨クリエイターガイド
 parent: Menno
-nav_order: 6
+nav_order: 7
 permalink: /menno/creator-guide/
 lang: ja
 ---

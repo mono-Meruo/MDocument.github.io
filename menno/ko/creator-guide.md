@@ -2,7 +2,7 @@
 layout: custom
 title: 🎨크리에이터 가이드
 parent: Menno
-nav_order: 6
+nav_order: 7
 permalink: /menno/creator-guide/
 lang: ko
 ---

@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: custom
 title: 🎨创作者指南
 parent: Menno
 nav_order: 6
+permalink: /menno/creator-guide/
 lang: zh
 ---
 

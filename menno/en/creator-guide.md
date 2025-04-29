@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: custom
 title: 🎨Creator Guide
 parent: Menno
 nav_order: 6
+permalink: /menno/creator-guide/
 lang: en
 ---
 

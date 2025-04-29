@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Menno
 nav_order: 2
 has_children: true
@@ -8,16 +8,6 @@ lang: ja
 ---
 
 # Welcome to Menno 3D Model Documentation!
-
-## 目次
-
-- [インストール方法](/menno/installation/)
-- [モデル構造](/menno/structure/)
-- [カスタマイズ](/menno/customization/)
-- [アニメーション](/menno/animation/)
-- [シェイプキー](/menno/shapekeys/)
-- [MASの設定](/menno/mas-settings/)
-- [クリエイターガイド](/menno/creator-guide/)
 
 ## アバター情報
 

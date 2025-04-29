@@ -9,7 +9,7 @@ lang: en
 
 # Shape Keys List and Description
 
-Shape keys are functions that transform the shape of a 3D model. The Menno model has a total of 884 shape keys implemented, allowing for detailed adjustments to the character's facial expressions and body shape.
+Shape keys are functions that transform the shape of a 3D model. The Menno model has a total of 885 shape keys implemented, allowing for detailed adjustments to the character's facial expressions and body shape.
 
 ## Shape Keys Overview
 

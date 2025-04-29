@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: custom
 title: シェイプキー一覧
 parent: Menno
 nav_order: 6
 permalink: /menno/shapekeys
+lang: ja
 ---
 
 # シェイプキー一覧と説明

@@ -11,6 +11,10 @@ lang: ja
 
 このページでは、Mennoアバターの導入方法について説明します。
 
+# UnityからのMenno導入と、M Avatar Settingの操作方法
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imeaf9TB4ME?si=0a-RL1EgCnXRjdrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## ダウンロードしたファイルの構成
 
 BOOTHからダウンロードしたファイルを解凍すると、以下のような構成になっています：

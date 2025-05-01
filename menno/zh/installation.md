@@ -7,6 +7,10 @@ permalink: /menno/installation/
 lang: zh
 ---
 
+# 从Unity安装Menno和如何使用M Avatar Setting
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imeaf9TB4ME?si=0a-RL1EgCnXRjdrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Menno - 安装
 
 本页说明如何安装Menno虚拟形象。

@@ -7,6 +7,10 @@ permalink: /menno/installation/
 lang: ko
 ---
 
+# Unity에서 Menno 설치 및 M Avatar Setting 사용 방법
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/imeaf9TB4ME?si=0a-RL1EgCnXRjdrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Menno - 설치 방법
 
 이 페이지에서는 Menno 아바타의 설치 방법에 대해 설명합니다.

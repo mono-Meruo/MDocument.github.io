@@ -19,19 +19,16 @@ lang: ja
 ## EyePointer問題
 
 ### 症状
-EyePointerを導入しても目が動かない、または正常に視線誘導が機能しない。
+[Siromori Eye Pointer](https://booth.pm/ja/items/4742883)を導入しても目が動かない、または正常に視線誘導が機能しない。
 
 ### 原因
 Mennoアバターは`UpperChest`ボーンを持っているため、標準のEyePointerアニメーションがこのボーン構造に対応していません。
-
-### 製品情報
-[Siromori Eye Pointer](https://booth.pm/ja/items/4742883)は、アバターの視線をコントロールするためのギミックです。
 
 ### 解決方法
 
 #### M Avatar Setting v1.2.8以降をお持ちの場合
 
-1. [Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/3958356)をダウンロードします
+1. [Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/6504220)をダウンロードします
 2. **重要**: インポート時にはScriptsフォルダのみをチェックしてください（他のフォルダをインポートするとMennoのテクスチャやマテリアルが上書きされる可能性があります）
 3. Unityエディタ上部のメニューから`Window > M Avatar Setting`を開きます
 4. ウィンドウの一番下のデバッグセクションを展開し、「fixEyePointer」ボタンをクリックします

@@ -3,7 +3,7 @@ layout: custom
 title: ❓常见问题（FAQ）
 parent: Menno
 nav_order: 7
-permalink: /menno/zh/faq/
+permalink: /menno/faq/
 lang: zh
 ---
 
@@ -19,19 +19,16 @@ lang: zh
 ## EyePointer问题
 
 ### 症状
-使用EyePointer后眼睛不动，或者视线引导功能无法正常工作。
+使用[Siromori Eye Pointer](https://booth.pm/ja/items/4742883)后眼睛不动，或者视线引导功能无法正常工作。
 
 ### 原因
 Menno角色拥有`UpperChest`骨骼，而标准的EyePointer动画不兼容这种骨骼结构。
-
-### 产品信息
-[Siromori Eye Pointer](https://booth.pm/ja/items/4742883)是一个用于控制角色视线的工具。
 
 ### 解决方法
 
 #### 如果您使用M Avatar Setting v1.2.8或更高版本
 
-1. 下载[Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/3958356)
+1. 下载[Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/6504220)
 2. **重要**：导入时仅勾选Scripts文件夹（导入其他文件夹可能会覆盖Menno的纹理和材质）
 3. 从Unity编辑器顶部菜单打开`Window > M Avatar Setting`
 4. 展开窗口底部的Debug部分，点击"fixEyePointer"按钮

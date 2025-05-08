@@ -3,7 +3,7 @@ layout: custom
 title: ❓Frequently Asked Questions (FAQ)
 parent: Menno
 nav_order: 7
-permalink: /menno/en/faq/
+permalink: /menno/faq/
 lang: en
 ---
 
@@ -19,19 +19,16 @@ This page answers common questions and issues related to the Menno avatar.
 ## EyePointer Issues
 
 ### Symptoms
-EyePointer doesn't move the eyes or doesn't function correctly for eye tracking.
+[Siromori Eye Pointer](https://booth.pm/ja/items/4742883) doesn't move the eyes or doesn't function correctly for eye tracking.
 
 ### Cause
 The Menno avatar has an `UpperChest` bone in its hierarchy, which isn't compatible with the standard EyePointer animations.
-
-### Product Information
-[Siromori Eye Pointer](https://booth.pm/ja/items/4742883) is a gimmick designed to control your avatar's gaze.
 
 ### Solutions
 
 #### If you have M Avatar Setting v1.2.8 or later
 
-1. Download [Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/3958356)
+1. Download [Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/6504220)
 2. **Important**: When importing, only check the Scripts folder (importing other folders may overwrite Menno's textures and materials)
 3. Open M Avatar Setting from Unity's top menu: `Window > M Avatar Setting`
 4. Expand the Debug section at the bottom of the window and click the "fixEyePointer" button

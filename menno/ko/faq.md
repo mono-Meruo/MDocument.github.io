@@ -3,7 +3,7 @@ layout: custom
 title: ❓자주 묻는 질문(FAQ)
 parent: Menno
 nav_order: 7
-permalink: /menno/ko/faq/
+permalink: /menno/faq/
 lang: ko
 ---
 
@@ -19,19 +19,16 @@ lang: ko
 ## EyePointer 문제
 
 ### 증상
-EyePointer를 도입해도 눈이 움직이지 않거나 시선 유도가 정상적으로 작동하지 않습니다.
+[Siromori Eye Pointer](https://booth.pm/ja/items/4742883)를 도입해도 눈이 움직이지 않거나 시선 유도가 정상적으로 작동하지 않습니다.
 
 ### 원인
 Menno 아바타는 `UpperChest` 본을 가지고 있어 표준 EyePointer 애니메이션이 이 본 구조에 대응하지 않습니다.
-
-### 제품 정보
-[Siromori Eye Pointer](https://booth.pm/ja/items/4742883)는 아바타의 시선을 제어하기 위한 기믹입니다.
 
 ### 해결 방법
 
 #### M Avatar Setting v1.2.8 이상을 사용하는 경우
 
-1. [Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/3958356)을 다운로드합니다
+1. [Menno_v1.01_M.AvatarSetting_v1.2.8.zip](https://emudotto.booth.pm/items/6504220)을 다운로드합니다
 2. **중요**: 임포트 시 Scripts 폴더만 체크하세요(다른 폴더를 임포트하면 Menno의 텍스처나 머티리얼이 덮어쓰여질 수 있습니다)
 3. Unity 에디터 상단 메뉴에서 `Window > M Avatar Setting`을 엽니다
 4. 창 맨 아래에 있는 디버그 섹션을 펼치고 "fixEyePointer" 버튼을 클릭합니다

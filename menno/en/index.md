@@ -20,6 +20,7 @@ Welcome to the official documentation for the 3D model "Menno".
 - [Shape Keys]({{ site.baseurl }}/menno/shapekeys/)
 - [MAS Settings]({{ site.baseurl }}/menno/mas-settings/)
 - [Creator Guide]({{ site.baseurl }}/menno/creator-guide/)
+- [Frequently Asked Questions (FAQ)]({{ site.baseurl }}/menno/en/faq/)
 
 # Menno Avatar
 

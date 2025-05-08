@@ -20,6 +20,7 @@ lang: zh
 - [形状键]({{ site.baseurl }}/menno/shapekeys/)
 - [MAS设置]({{ site.baseurl }}/menno/mas-settings/)
 - [创作者指南]({{ site.baseurl }}/menno/creator-guide/)
+- [常见问题（FAQ）]({{ site.baseurl }}/menno/zh/faq/)
 
 # Menno虚拟形象
 

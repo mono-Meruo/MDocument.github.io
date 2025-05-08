@@ -20,6 +20,7 @@ lang: ja
 - [シェイプキー]({{ site.baseurl }}/menno/shapekeys/)
 - [MAS設定]({{ site.baseurl }}/menno/mas-settings/)
 - [クリエイターガイド]({{ site.baseurl }}/menno/creator-guide/)
+- [よくある質問（FAQ）]({{ site.baseurl }}/menno/faq/)
 
 # Menno アバター
 

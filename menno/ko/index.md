@@ -20,6 +20,7 @@ lang: ko
 - [셰이프키]({{ site.baseurl }}/menno/shapekeys/)
 - [MAS 설정]({{ site.baseurl }}/menno/mas-settings/)
 - [크리에이터 가이드]({{ site.baseurl }}/menno/creator-guide/)
+- [자주 묻는 질문(FAQ)]({{ site.baseurl }}/menno/ko/faq/)
 
 # Menno 아바타
 

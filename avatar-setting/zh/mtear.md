@@ -1,7 +1,7 @@
 ---
-layout: custom
+layout: default
 title: MTear 泪水编辑器
-parent: M. Avatar Setting
+parent: ⚙️M. Avatar Setting
 nav_order: 3
 lang: zh
 permalink: /avatar-setting/mtear/

@@ -1,7 +1,7 @@
 ---
-layout: custom
+layout: default
 title: MTear涙エディター
-parent: M. Avatar Setting
+parent: ⚙️M. Avatar Setting
 nav_order: 3
 lang: ja
 permalink: /avatar-setting/mtear/

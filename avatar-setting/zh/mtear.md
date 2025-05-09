@@ -7,12 +7,6 @@ lang: zh
 permalink: /avatar-setting/mtear/
 ---
 
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="../mtear.html" style="margin-right: 5px;">日本語</a>
-  <a href="../en/mtear.html" style="margin-right: 5px;">English</a>
-  <a href="../ko/mtear.html">한국어</a>
-</div>
-
 # MTear 泪水编辑器
 
 MTear 是一个为 VRChat 虚拟形象"Menno"设计的泪水效果编辑工具。您可以自由自定义泪水流动的速度、形状和大小等。

@@ -7,12 +7,6 @@ lang: en
 permalink: /avatar-setting/mtear/
 ---
 
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="../mtear.html" style="margin-right: 5px;">日本語</a>
-  <a href="../ko/mtear.html" style="margin-right: 5px;">한국어</a>
-  <a href="../zh/mtear.html">中文</a>
-</div>
-
 # MTear Tear Editor
 
 MTear is a tool for editing tear effects for the VRChat avatar "Menno". You can freely customize the speed, shape, and size of tears.

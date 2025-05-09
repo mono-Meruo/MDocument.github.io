@@ -7,12 +7,6 @@ lang: ja
 permalink: /avatar-setting/mtear/
 ---
 
-<div style="text-align: right; margin-bottom: 20px;">
-  <a href="en/mtear.html" style="margin-right: 5px;">English</a>
-  <a href="ko/mtear.html" style="margin-right: 5px;">한국어</a>
-  <a href="zh/mtear.html">中文</a>
-</div>
-
 # MTear涙エディター
 
 MTearは、VRChatアバター「Menno」用の涙エフェクトを編集するためのツールです。涙の流れる速度や形状、サイズなどを自由にカスタマイズできます。
@@ -40,16 +34,17 @@ MTearは以下のコンポーネントで構成されています：
 ### 基本セットアップ
 
 1. Mennoアバターを開きます
-2. MTearコンポーネントがない場合は、「MTear」オブジェクトに追加します
-3. インスペクターでMTearEditorコンポーネントを選択します
-4. 「涙メッシュを編集」ボタンをクリックします
+2. ヒエラルキーウィンドウで「Menno」オブジェクトを展開します
+3. 「MTear」オブジェクトを選択します
+4. インスペクターに表示される「MTearEditor」コンポーネントを確認します
+5. 「涙メッシュを編集」ボタンをクリックします
 
 ![MTearインスペクター](../assets/images/mtear_inspector.jpg)
 
 ### インスペクターから編集
 
 MTearEditorには、涙メッシュを編集するためのボタンが表示されます。
-ボタンをクリックすると、専用のエディターウィンドウが開きます。
+このボタンをクリックすると、専用のエディターウィンドウが開き、涙のメッシュを直接編集できるようになります。
 
 ## 涙メッシュエディター
 

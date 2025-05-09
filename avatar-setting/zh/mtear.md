@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: MTear 泪水编辑器
 parent: ⚙️M. Avatar Setting
 nav_order: 3

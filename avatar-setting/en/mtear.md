@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: MTear Tear Editor
 parent: ⚙️M. Avatar Setting
 nav_order: 3

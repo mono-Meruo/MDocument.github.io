@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: MTear涙エディター
 parent: ⚙️M. Avatar Setting
 nav_order: 3

@@ -11,6 +11,8 @@ permalink: /avatar-setting/mtear/
 
 MTear는 VRChat 아바타 "Menno"용 눈물 효과를 편집하기 위한 도구입니다. 눈물이 흐르는 속도, 형태, 크기 등을 자유롭게 커스터마이징할 수 있습니다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcjnlMPjgCc?si=4v3UXY1mBSb9ByJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - [개요](#개요)
 - [사용 방법](#사용-방법)
 - [눈물 메시 편집기](#눈물-메시-편집기)

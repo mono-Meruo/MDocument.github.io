@@ -11,6 +11,8 @@ permalink: /avatar-setting/mtear/
 
 MTearは、VRChatアバター「Menno」用の涙エフェクトを編集するためのツールです。涙の流れる速度や形状、サイズなどを自由にカスタマイズできます。
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcjnlMPjgCc?si=4v3UXY1mBSb9ByJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - [概要](#概要)
 - [使用方法](#使用方法)
 - [涙メッシュエディター](#涙メッシュエディター)

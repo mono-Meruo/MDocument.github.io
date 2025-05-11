@@ -11,6 +11,8 @@ permalink: /avatar-setting/mtear/
 
 MTear is a tool for editing tear effects for the VRChat avatar "Menno". You can freely customize the speed, shape, and size of tears.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rcjnlMPjgCc?si=4v3UXY1mBSb9ByJN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - [Overview](#overview)
 - [How to Use](#how-to-use)
 - [Tear Mesh Editor](#tear-mesh-editor)

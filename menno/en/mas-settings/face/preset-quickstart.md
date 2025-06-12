@@ -5,6 +5,7 @@ parent: ⚙️Face Settings
 nav_order: 2
 permalink: /menno/en/mas-settings/face/preset-quickstart/
 lang: en
+lang-ref: face-preset-quickstart
 ---
 
 # Face Shape Key Preset Feature - Quick Start

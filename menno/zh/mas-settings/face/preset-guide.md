@@ -5,6 +5,7 @@ parent: ⚙️面部设置
 nav_order: 3
 permalink: /menno/zh/mas-settings/face/preset-guide/
 lang: zh
+lang-ref: face-preset-guide
 ---
 
 # 面部形状键预设功能 - 详细指南

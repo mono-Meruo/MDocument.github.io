@@ -5,6 +5,7 @@ parent: ⚙️Face Settings
 nav_order: 3
 permalink: /menno/en/mas-settings/face/preset-guide/
 lang: en
+lang-ref: face-preset-guide
 ---
 
 # Face Shape Key Preset Feature - Detailed Guide

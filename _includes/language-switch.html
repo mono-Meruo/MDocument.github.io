@@ -4,7 +4,16 @@
       {% if lang == site.active_lang %}
         <li class="current">{{ site.data.language[lang].name }}</li>
       {% else %}
-        <li><a href="{% if lang == site.default_lang %} {{ site.baseurl }}{{ page.url }} {% else %} {{ site.baseurl }}/{{ lang }}{{ page.url }} {% endif %}">{{ site.data.language[lang].name }}</a></li>
+        {% if page.lang-ref %}
+          {% assign posts = site.pages | where:"lang-ref", page.lang-ref | where:"lang", lang %}
+          {% if posts.size > 0 %}
+            <li><a href="{{ site.baseurl }}{{ posts.first.url }}">{{ site.data.language[lang].name }}</a></li>
+          {% else %}
+            <li><a href="{% if lang == site.default_lang %} {{ site.baseurl }}{{ page.url }} {% else %} {{ site.baseurl }}/{{ lang }}{{ page.url }} {% endif %}">{{ site.data.language[lang].name }}</a></li>
+          {% endif %}
+        {% else %}
+          <li><a href="{% if lang == site.default_lang %} {{ site.baseurl }}{{ page.url }} {% else %} {{ site.baseurl }}/{{ lang }}{{ page.url }} {% endif %}">{{ site.data.language[lang].name }}</a></li>
+        {% endif %}
       {% endif %}
     {% endfor %}
   </ul>

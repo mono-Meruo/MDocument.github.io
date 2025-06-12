@@ -5,6 +5,7 @@ parent: ⚙️顔の設定
 nav_order: 2
 permalink: /menno/mas-settings/face/preset-quickstart/
 lang: ja
+lang-ref: face-preset-quickstart
 ---
 
 # 顔シェイプキープリセット機能 - クイックスタート

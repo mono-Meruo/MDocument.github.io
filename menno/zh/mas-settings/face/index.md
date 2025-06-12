@@ -7,6 +7,7 @@ nav_order: 1
 has_children: true
 permalink: /menno/zh/mas-settings/face/
 lang: zh
+lang-ref: face-settings
 ---
 
 # Menno - 面部设置

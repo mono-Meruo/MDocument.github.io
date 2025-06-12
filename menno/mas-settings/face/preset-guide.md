@@ -5,6 +5,7 @@ parent: ⚙️顔の設定
 nav_order: 3
 permalink: /menno/mas-settings/face/preset-guide/
 lang: ja
+lang-ref: face-preset-guide
 ---
 
 # 表情プリセット機能 - 詳細ガイド

@@ -5,6 +5,7 @@ parent: ⚙️面部设置
 nav_order: 2
 permalink: /menno/zh/mas-settings/face/preset-quickstart/
 lang: zh
+lang-ref: face-preset-quickstart
 ---
 
 # 面部形状键预设功能 - 快速入门

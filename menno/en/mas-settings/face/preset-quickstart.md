@@ -2,7 +2,6 @@
 layout: custom
 title: 🎭Face Blend Shape Preset (Quick Start)
 parent: ⚙️Face Settings
-grand_parent: ⚙️M. Avatar Settings
 nav_order: 2
 permalink: /menno/en/mas-settings/face/preset-quickstart/
 lang: en

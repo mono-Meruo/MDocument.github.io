@@ -4,7 +4,8 @@ title: ⚙️Face Settings
 parent: ⚙️M. Avatar Setting
 grand_parent: Menno
 nav_order: 1
-permalink: /menno/mas-settings/face/
+has_children: true
+permalink: /menno/en/mas-settings/face/
 lang: en
 ---
 

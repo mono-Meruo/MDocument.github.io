@@ -2,7 +2,6 @@
 layout: custom
 title: 🎭顔シェイプキープリセット（詳細ガイド）
 parent: ⚙️顔の設定
-grand_parent: ⚙️M. Avatar Setting設定
 nav_order: 3
 permalink: /menno/mas-settings/face/preset-guide/
 lang: ja

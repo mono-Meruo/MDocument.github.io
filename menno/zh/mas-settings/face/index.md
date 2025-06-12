@@ -4,7 +4,8 @@ title: ⚙️面部设置
 parent: ⚙️M. Avatar Setting
 grand_parent: Menno
 nav_order: 1
-permalink: /menno/mas-settings/face/
+has_children: true
+permalink: /menno/zh/mas-settings/face/
 lang: zh
 ---
 

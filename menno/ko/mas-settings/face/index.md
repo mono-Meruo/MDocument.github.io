@@ -4,7 +4,8 @@ title: ⚙️얼굴 설정
 parent: ⚙️M. Avatar Setting 설정
 grand_parent: Menno
 nav_order: 1
-permalink: /menno/mas-settings/face/
+has_children: true
+permalink: /menno/ko/mas-settings/face/
 lang: ko
 ---
 

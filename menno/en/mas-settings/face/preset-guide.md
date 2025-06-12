@@ -2,7 +2,6 @@
 layout: custom
 title: 🎭Face Shape Key Preset (Detailed Guide)
 parent: ⚙️Face Settings
-grand_parent: ⚙️M. Avatar Settings
 nav_order: 3
 permalink: /menno/en/mas-settings/face/preset-guide/
 lang: en

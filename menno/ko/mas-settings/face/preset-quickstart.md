@@ -2,7 +2,6 @@
 layout: custom
 title: 🎭얼굴 블렌드 셰이프 프리셋 (빠른 시작)
 parent: ⚙️얼굴 설정
-grand_parent: ⚙️M. Avatar 설정
 nav_order: 2
 permalink: /menno/ko/mas-settings/face/preset-quickstart/
 lang: ko

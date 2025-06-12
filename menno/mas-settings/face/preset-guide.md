@@ -4,7 +4,7 @@ title: 🎭顔シェイプキープリセット（詳細ガイド）
 parent: ⚙️顔の設定
 nav_order: 3
 child_nav_order: 2
-permalink: /ja/menno/mas-settings/face/preset-guide/
+permalink: /menno/mas-settings/face/preset-guide/
 lang: ja
 lang-ref: face-preset-guide
 ---

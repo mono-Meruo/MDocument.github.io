@@ -3,7 +3,7 @@ layout: custom
 title: 🎭Face Shape Key Preset (Detailed Guide)
 parent: ⚙️Face Settings
 nav_order: 3
-permalink: /en/menno/mas-settings/face/preset-guide/
+permalink: /menno/mas-settings/face/preset-guide/
 lang: en
 lang-ref: face-preset-guide
 ---

@@ -4,7 +4,7 @@ title: ⚙️物品设置
 parent: ⚙️M. Avatar Setting
 grand_parent: Menno
 nav_order: 3
-permalink: /menno/mas-settings/items/
+permalink: /zh/menno/mas-settings/items/
 lang: zh
 ---
 

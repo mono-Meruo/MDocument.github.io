@@ -3,7 +3,7 @@ layout: custom
 title: 🎭面部混合形状预设（快速入门）
 parent: ⚙️面部设置
 nav_order: 2
-permalink: /zh/menno/mas-settings/face/preset-quickstart/
+permalink: /menno/mas-settings/face/preset-quickstart/
 lang: zh
 lang-ref: face-preset-quickstart
 ---

@@ -3,7 +3,7 @@ layout: custom
 title: 🎭面部形状键预设（详细指南）
 parent: ⚙️面部设置
 nav_order: 3
-permalink: /zh/menno/mas-settings/face/preset-guide/
+permalink: /menno/mas-settings/face/preset-guide/
 lang: zh
 lang-ref: face-preset-guide
 ---

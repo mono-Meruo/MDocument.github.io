@@ -4,7 +4,7 @@ title: 🎭顔ブレンドシェイププリセット（クイックスタート
 parent: ⚙️顔の設定
 nav_order: 2
 child_nav_order: 1
-permalink: /ja/menno/mas-settings/face/preset-quickstart/
+permalink: /menno/mas-settings/face/preset-quickstart/
 lang: ja
 lang-ref: face-preset-quickstart
 collection: face_presets

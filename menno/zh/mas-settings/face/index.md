@@ -5,7 +5,7 @@ parent: ⚙️M. Avatar Setting
 grand_parent: Menno
 nav_order: 1
 has_children: true
-permalink: /zh/menno/mas-settings/face/
+permalink: /menno/mas-settings/face/
 lang: zh
 lang-ref: face-settings
 ---
@@ -144,8 +144,8 @@ M. Avatar Setting允许您精细调整Menno虚拟形象的面部表情和混合�
 - **共享预设**：在其他项目中使用预设文件
 
 有关详细用法，请参阅以下指南：
-- [🎭面部混合形状预设（快速入门）]({{ site.baseurl }}/zh/menno/mas-settings/face/preset-quickstart/) - 基本用法
-- [🎭面部形状键预设（详细指南）]({{ site.baseurl }}/zh/menno/mas-settings/face/preset-guide/) - 高级用法和技术细节
+- [🎭面部混合形状预设（快速入门）]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - 基本用法
+- [🎭面部形状键预设（详细指南）]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - 高级用法和技术细节
 
 ## 重置设置
 

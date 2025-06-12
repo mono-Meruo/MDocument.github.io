@@ -27,6 +27,7 @@ You can select from the following 3 types of skin color for the Menno avatar:
 - **Standard Color** - Default skin color
 - **Tan** - Slightly darker skin color
 - **Gray** - Gray skin color
+- **Custom** - Press the custom button to freely set face texture and body base texture
 
 ### Texture Type
 You can select the eye texture type:
@@ -40,6 +41,7 @@ You can select from the following eye colors:
 - **Red** - Red eyes
 - **Black** - Black eyes
 - **White** - White eyes
+- **Custom** - Press the custom button to freely set eye texture (texture type selection will be disabled)
 
 ### Ear Shape
 You can select from the following ear shapes:
@@ -128,6 +130,20 @@ Main settings:
 ## Operation Method
 
 When you expand each category, sliders for the blend shapes belonging to that category will be displayed. You can adjust the shape of the corresponding part by moving the slider.
+
+## Face Shape Key Preset Feature
+
+A feature that allows you to save your favorite blend shape settings and easily recall them anytime.
+
+### Main Features
+- **Save Presets**: Save current blend shape settings with a name
+- **Apply Presets**: Apply saved presets with intensity adjustment
+- **Blend Presets**: Apply multiple presets simultaneously to create new expressions
+- **Share Presets**: Use preset files in other projects
+
+For detailed usage, please refer to the following guides:
+- [🎭Face Blend Shape Preset (Quick Start)]({{ site.baseurl }}/menno/en/mas-settings/face/preset-quickstart/) - Basic usage
+- [🎭Face Shape Key Preset (Detailed Guide)]({{ site.baseurl }}/menno/en/mas-settings/face/preset-guide/) - Advanced usage and technical details
 
 ## Resetting Settings
 

@@ -1,9 +1,8 @@
 ---
 layout: custom
 title: 🎭顔ブレンドシェイププリセット（クイックスタート）
-parent: ⚙️顔の設定
-grand_parent: ⚙️M. Avatar Setting設定
-nav_order: 2
+parent: ⚙️M. Avatar Setting設定
+nav_order: 5
 permalink: /menno/mas-settings/face/preset-quickstart/
 lang: ja
 ---

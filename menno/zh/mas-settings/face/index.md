@@ -3,7 +3,6 @@ layout: custom
 title: ⚙️面部设置
 parent: ⚙️M. Avatar Setting
 grand_parent: Menno
-has_children: true
 nav_order: 1
 permalink: /menno/mas-settings/face/
 lang: zh

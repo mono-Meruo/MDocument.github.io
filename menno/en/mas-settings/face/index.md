@@ -5,7 +5,7 @@ parent: ⚙️M. Avatar Setting
 grand_parent: Menno
 nav_order: 1
 has_children: true
-permalink: /menno/en/mas-settings/face/
+permalink: /en/menno/mas-settings/face/
 lang: en
 lang-ref: face-settings
 ---
@@ -144,8 +144,8 @@ A feature that allows you to save your favorite blend shape settings and easily 
 - **Share Presets**: Use preset files in other projects
 
 For detailed usage, please refer to the following guides:
-- [🎭Face Blend Shape Preset (Quick Start)]({{ site.baseurl }}/menno/en/mas-settings/face/preset-quickstart/) - Basic usage
-- [🎭Face Shape Key Preset (Detailed Guide)]({{ site.baseurl }}/menno/en/mas-settings/face/preset-guide/) - Advanced usage and technical details
+- [🎭Face Blend Shape Preset (Quick Start)]({{ site.baseurl }}/en/menno/mas-settings/face/preset-quickstart/) - Basic usage
+- [🎭Face Shape Key Preset (Detailed Guide)]({{ site.baseurl }}/en/menno/mas-settings/face/preset-guide/) - Advanced usage and technical details
 
 ## Resetting Settings
 

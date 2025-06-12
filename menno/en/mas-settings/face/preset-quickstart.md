@@ -3,7 +3,7 @@ layout: custom
 title: 🎭Face Blend Shape Preset (Quick Start)
 parent: ⚙️Face Settings
 nav_order: 2
-permalink: /menno/en/mas-settings/face/preset-quickstart/
+permalink: /en/menno/mas-settings/face/preset-quickstart/
 lang: en
 lang-ref: face-preset-quickstart
 ---

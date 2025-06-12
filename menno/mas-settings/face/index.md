@@ -5,9 +5,10 @@ parent: ⚙️M. Avatar Setting設定
 grand_parent: Menno
 nav_order: 1
 has_children: true
-permalink: /menno/mas-settings/face/
+permalink: /ja/menno/mas-settings/face/
 lang: ja
 lang-ref: face-settings
+collection: face_presets
 ---
 
 # Menno - 顔の設定
@@ -144,8 +145,8 @@ Mennoアバターの肌の色を以下の3種類から選択できます：
 - **プリセットの共有**: プリセットファイルを他のプロジェクトで使用可能
 
 詳しい使い方は以下のガイドをご覧ください：
-- [🎭顔ブレンドシェイププリセット（クイックスタート）]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - 基本的な使い方
-- [🎭顔シェイプキープリセット（詳細ガイド）]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - 高度な使い方と技術詳細
+- [🎭顔ブレンドシェイププリセット（クイックスタート）]({{ site.baseurl }}/ja/menno/mas-settings/face/preset-quickstart/) - 基本的な使い方
+- [🎭顔シェイプキープリセット（詳細ガイド）]({{ site.baseurl }}/ja/menno/mas-settings/face/preset-guide/) - 高度な使い方と技術詳細
 
 ## 設定のリセット
 

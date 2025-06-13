@@ -35,21 +35,23 @@ Your saved presets are displayed in the "Saved Presets" section.
 
 ### 2. Apply with Intensity Slider
 Each preset has an "Intensity" slider:
-- **0%**: Do not apply preset
-- **50%**: Apply preset at half intensity
-- **100%**: Fully apply preset
+- **0%**: Do not apply the preset
+- **50%**: Apply the preset at half intensity
+- **100%**: Apply the preset completely
+![assets]({{ site.baseurl }}/assets/images/preset_assets_slider2.gif)
 
 ### 3. Real-time Preview
-Moving the slider changes the blend shapes in real-time.
+As you move the slider, the blend shape changes in real-time.
 
 ## Convenient Features
 
-### Preset Blending
+### Blending Presets
 You can apply multiple presets simultaneously to create new blend shapes.
-- Example: Apply "Child" at 50% and "Adult" at 30% to create your preferred blend shape settings.
+- Example: Apply "Child" at 50% and "Adult" at 30% to set your desired blend shape.
+![assets]({{ site.baseurl }}/assets/images/preset_assets_slider.gif)
 
-### Access to Preset Folder
-Click the 📁 button next to "Saved Presets:" to open the preset folder in the Project window.
+### Accessing the Preset Folder
+Click the 📁 button next to "Saved Presets:" to open the folder where presets are saved in the project window.
 
 ### Delete Presets
 Click the "X" button on each preset to delete it after confirmation.

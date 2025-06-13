@@ -3,6 +3,7 @@ layout: custom
 title: 🎭얼굴 셰이프 키 프리셋 배포 가이드
 parent: ⚙️얼굴 설정
 grand_parent: ⚙️M. Avatar Setting 설정
+great_grand_parent: Menno
 nav_order: 4
 permalink: /menno/mas-settings/face/preset-distribution/
 lang: ko

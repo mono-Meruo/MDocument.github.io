@@ -3,6 +3,7 @@ layout: custom
 title: 🎭顔シェイプキープリセット配布ガイド
 parent: ⚙️顔の設定
 grand_parent: ⚙️M. Avatar Setting設定
+great_grand_parent: Menno
 nav_order: 4
 permalink: /menno/mas-settings/face/preset-distribution/
 lang: ja

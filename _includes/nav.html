@@ -1,0 +1,76 @@
+{%- comment -%}
+  Mr. D. (2024-07-27): This file has been customized to add a 4th level of navigation.
+  It is based on the `just-the-docs` theme version 0.7.0.
+{%- endcomment -%}
+{%- assign nav_list = site.html_pages | sort: "nav_order" -%}
+
+{%- if site.nav_sort == "reverse" -%}
+  {%- assign nav_list = nav_list | reverse -%}
+{%- endif -%}
+
+<ul class="nav-list">
+  {%- for item in nav_list -%}
+    {%- if item.parent == nil and item.title != "Home" -%}
+      <li class="nav-list-item{% if page.url == item.url or page.parent == item.title or page.grand_parent == item.title or page.great_grand_parent == item.title %} active{% endif %}">
+        {%- if item.nav_exclude != true -%}
+          <a href="{{ item.url | relative_url }}" class="nav-list-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+          {%- assign has_children = false -%}
+          {%- for child in nav_list -%}
+            {%- if child.parent == item.title -%}
+              {%- assign has_children = true -%}
+            {%- endif -%}
+          {%- endfor -%}
+          {%- if has_children -%}
+            <ul class="nav-list">
+              {%- for child in nav_list -%}
+                {%- if child.parent == item.title -%}
+                  <li class="nav-list-item{% if page.url == child.url or page.parent == child.title or page.grand_parent == child.title %} active{% endif %}">
+                    {%- if child.nav_exclude != true -%}
+                      <a href="{{ child.url | relative_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+                      {%- assign has_grandchildren = false -%}
+                      {%- for grandchild in nav_list -%}
+                        {%- if grandchild.parent == child.title -%}
+                          {%- assign has_grandchildren = true -%}
+                        {%- endif -%}
+                      {%- endfor -%}
+                      {%- if has_grandchildren -%}
+                        <ul class="nav-list">
+                          {%- for grandchild in nav_list -%}
+                            {%- if grandchild.parent == child.title -%}
+                              <li class="nav-list-item{% if page.url == grandchild.url or page.parent == grandchild.title %} active{% endif %}">
+                                {%- if grandchild.nav_exclude != true -%}
+                                  <a href="{{ grandchild.url | relative_url }}" class="nav-list-link{% if page.url == grandchild.url %} active{% endif %}">{{ grandchild.title }}</a>
+                                  {%- assign has_great_grandchildren = false -%}
+                                  {%- for great_grandchild in nav_list -%}
+                                    {%- if great_grandchild.parent == grandchild.title -%}
+                                      {%- assign has_great_grandchildren = true -%}
+                                    {%- endif -%}
+                                  {%- endfor -%}
+                                  {%- if has_great_grandchildren -%}
+                                    <ul class="nav-list">
+                                      {%- for great_grandchild in nav_list -%}
+                                        {%- if great_grandchild.parent == grandchild.title -%}
+                                          <li class="nav-list-item{% if page.url == great_grandchild.url %} active{% endif %}">
+                                            <a href="{{ great_grandchild.url | relative_url }}" class="nav-list-link{% if page.url == great_grandchild.url %} active{% endif %}">{{ great_grandchild.title }}</a>
+                                          </li>
+                                        {%- endif -%}
+                                      {%- endfor -%}
+                                    </ul>
+                                  {%- endif -%}
+                                {%- endif -%}
+                              </li>
+                            {%- endif -%}
+                          {%- endfor -%}
+                        </ul>
+                      {%- endif -%}
+                    {%- endif -%}
+                  </li>
+                {%- endif -%}
+              {%- endfor -%}
+            </ul>
+          {%- endif -%}
+        {%- endif -%}
+      </li>
+    {%- endif -%}
+  {%- endfor -%}
+</ul> 

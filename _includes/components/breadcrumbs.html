@@ -1,0 +1,43 @@
+{%- comment -%}
+  Mr. D. (2024-07-27): This file has been customized to add the `great_grand_parent` level.
+  It is based on the `just-the-docs` theme version 0.7.0.
+{%- endcomment -%}
+{%- if page.parent -%}
+  {%- assign parent = site.pages | where: "title", page.parent | where: "lang", page.lang | first -%}
+  {%- if parent.parent -%}
+    {%- assign grand_parent = site.pages | where: "title", parent.parent | where: "lang", page.lang | first -%}
+  {%- endif -%}
+  {%- if grand_parent.parent -%}
+    {%- assign great_grand_parent = site.pages | where: "title", grand_parent.parent | where: "lang", page.lang | first -%}
+  {%- endif -%}
+  <nav class="breadcrumb-nav">
+    <ol class="breadcrumb">
+      {%- if great_grand_parent -%}
+        <li class="breadcrumb-item"><a href="{{ great_grand_parent.url | relative_url }}">{{ great_grand_parent.title }}</a></li>
+      {%- elsif parent.great_grand_parent -%}
+        {%- assign great_grand_parent_title = parent.great_grand_parent -%}
+        {%- assign great_grand_parent = site.pages | where: "title", great_grand_parent_title | where: "lang", page.lang | first -%}
+        <li class="breadcrumb-item"><a href="{{ great_grand_parent.url | relative_url }}">{{ great_grand_parent.title }}</a></li>
+      {%- elsif page.great_grand_parent -%}
+        {%- assign great_grand_parent_title = page.great_grand_parent -%}
+        {%- assign great_grand_parent = site.pages | where: "title", great_grand_parent_title | where: "lang", page.lang | first -%}
+        <li class="breadcrumb-item"><a href="{{ great_grand_parent.url | relative_url }}">{{ great_grand_parent.title }}</a></li>
+      {%- endif -%}
+
+      {%- if grand_parent -%}
+        <li class="breadcrumb-item"><a href="{{ grand_parent.url | relative_url }}">{{ grand_parent.title }}</a></li>
+      {%- elsif parent.grand_parent -%}
+        {%- assign grand_parent_title = parent.grand_parent -%}
+        {%- assign grand_parent = site.pages | where: "title", grand_parent_title | where: "lang", page.lang | first -%}
+        <li class="breadcrumb-item"><a href="{{ grand_parent.url | relative_url }}">{{ grand_parent.title }}</a></li>
+      {%- elsif page.grand_parent -%}
+        {%- assign grand_parent_title = page.grand_parent -%}
+        {%- assign grand_parent = site.pages | where: "title", grand_parent_title | where: "lang", page.lang | first -%}
+        <li class="breadcrumb-item"><a href="{{ grand_parent.url | relative_url }}">{{ grand_parent.title }}</a></li>
+      {%- endif -%}
+
+      <li class="breadcrumb-item"><a href="{{ parent.url | relative_url }}">{{ parent.title }}</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{ page.title }}</li>
+    </ol>
+  </nav>
+{%- endif -%} 

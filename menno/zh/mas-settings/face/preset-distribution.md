@@ -3,6 +3,7 @@ layout: custom
 title: 🎭面部造型关键帧预设分发指南
 parent: ⚙️面部设置
 grand_parent: ⚙️M. Avatar Setting
+great_grand_parent: Menno
 nav_order: 4
 permalink: /menno/mas-settings/face/preset-distribution/
 lang: zh

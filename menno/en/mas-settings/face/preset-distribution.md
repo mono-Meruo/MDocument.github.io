@@ -25,14 +25,21 @@ When distributing (selling or giving away for free) presets, please follow these
 3.  **Selling is OK**
     You can freely distribute and sell the presets you create, for both commercial and non-commercial purposes. It is recommended to distribute them in UnityPackage format for user convenience.
 
-4.  **Mandatory Requirement for Users**
+4.  **Entering Preset Information (Recommended)**
+    To improve convenience for users, it is recommended to set the following information for the presets you distribute.
+    - **Name**: A name that describes the content of the preset (e.g., `Menno_Face_Preset_Calm`)
+    - **Description**: Features or notes about the preset
+    - **Author**: Your name or brand name
+    ![assets]({{ site.baseurl }}/assets/images/preset_assets.png)
+
+5.  **Mandatory Requirement for Users**
     When selling or distributing presets, you must require that **the user has already purchased the main Menno avatar body**. Please be sure to include the following information in the description of your distribution page.
 
     > **[Required Information]**
     > This data is a preset exclusively for #Menno3D.
     > The main Menno avatar body, sold separately, is required for use.
 
-5.  **Use at Your Own Risk**
+6.  **Use at Your Own Risk**
     The use of distributed presets is at your own risk. The creator and emudotto are not responsible for any problems that may arise from the use of the presets.
 
 

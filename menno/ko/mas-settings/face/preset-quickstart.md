@@ -2,10 +2,11 @@
 layout: custom
 title: 🎭얼굴 블렌드 셰이프 프리셋 (빠른 시작)
 parent: ⚙️얼굴 설정
+grand_parent: ⚙️M. Avatar Setting
 nav_order: 2
 permalink: /menno/mas-settings/face/preset-quickstart/
 lang: ko
-lang-ref: face-preset-quickstart
+
 ---
 
 # 얼굴 셰이프 키 프리셋 기능 - 빠른 시작

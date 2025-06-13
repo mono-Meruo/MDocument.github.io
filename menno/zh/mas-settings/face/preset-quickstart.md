@@ -2,10 +2,11 @@
 layout: custom
 title: 🎭面部混合形状预设（快速入门）
 parent: ⚙️面部设置
+grand_parent: ⚙️M. Avatar Setting
 nav_order: 2
 permalink: /menno/mas-settings/face/preset-quickstart/
 lang: zh
-lang-ref: face-preset-quickstart
+
 ---
 
 # 面部形状键预设功能 - 快速入门

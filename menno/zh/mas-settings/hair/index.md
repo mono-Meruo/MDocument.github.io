@@ -4,7 +4,7 @@ title: ⚙️头发设置
 parent: ⚙️M. Avatar Setting
 grand_parent: Menno
 nav_order: 2
-permalink: /zh/menno/mas-settings/hair/
+permalink: /menno/mas-settings/hair/
 lang: zh
 ---
 

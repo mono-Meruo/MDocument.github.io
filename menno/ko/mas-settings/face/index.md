@@ -7,7 +7,7 @@ nav_order: 1
 has_children: true
 permalink: /menno/mas-settings/face/
 lang: ko
-lang-ref: face-settings
+
 ---
 
 # Menno - 얼굴 설정
@@ -146,6 +146,7 @@ Menno 아바타의 피부 색상을 다음 3가지 중에서 선택할 수 있�
 자세한 사용법은 다음 가이드를 참조하세요:
 - [🎭얼굴 블렌드 셰이프 프리셋 (빠른 시작)]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - 기본 사용법
 - [🎭얼굴 셰이프 키 프리셋 (상세 가이드)]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - 고급 사용법과 기술 세부사항
+- [🎭얼굴 셰이프 키 프리셋 배포 가이드]({{ site.baseurl }}/menno/mas-settings/face/preset-distribution/) - 프리셋 배포에 대한 가이드
 
 ## 설정 초기화
 

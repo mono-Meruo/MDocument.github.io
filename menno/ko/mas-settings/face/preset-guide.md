@@ -2,10 +2,11 @@
 layout: custom
 title: 🎭얼굴 셰이프 키 프리셋 (상세 가이드)
 parent: ⚙️얼굴 설정
+grand_parent: ⚙️M. Avatar Setting
 nav_order: 3
 permalink: /menno/mas-settings/face/preset-guide/
 lang: ko
-lang-ref: face-preset-guide
+
 ---
 
 # 얼굴 셰이프 키 프리셋 기능 - 상세 가이드

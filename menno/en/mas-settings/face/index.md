@@ -7,7 +7,7 @@ nav_order: 1
 has_children: true
 permalink: /menno/mas-settings/face/
 lang: en
-lang-ref: face-settings
+
 ---
 
 # Menno - Face Settings
@@ -146,6 +146,7 @@ A feature that allows you to save your favorite blend shape settings and easily 
 For detailed usage, please refer to the following guides:
 - [🎭Face Blend Shape Preset (Quick Start)]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - Basic usage
 - [🎭Face Shape Key Preset (Detailed Guide)]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - Advanced usage and technical details
+- [🎭Face Shape Key Preset Distribution Guide]({{ site.baseurl }}/menno/mas-settings/face/preset-distribution/) - Guide on distributing presets
 
 ## Resetting Settings
 

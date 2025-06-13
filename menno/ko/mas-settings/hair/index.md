@@ -4,7 +4,7 @@ title: ⚙️머리카락 설정
 parent: ⚙️M. Avatar Setting 설정
 grand_parent: Menno
 nav_order: 2
-permalink: /ko/menno/mas-settings/hair/
+permalink: /menno/mas-settings/hair/
 lang: ko
 ---
 

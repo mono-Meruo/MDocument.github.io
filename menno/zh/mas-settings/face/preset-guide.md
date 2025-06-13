@@ -2,10 +2,11 @@
 layout: custom
 title: 🎭面部形状键预设（详细指南）
 parent: ⚙️面部设置
+grand_parent: ⚙️M. Avatar Setting
 nav_order: 3
 permalink: /menno/mas-settings/face/preset-guide/
 lang: zh
-lang-ref: face-preset-guide
+
 ---
 
 # 面部形状键预设功能 - 详细指南

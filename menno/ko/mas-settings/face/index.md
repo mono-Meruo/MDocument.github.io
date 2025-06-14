@@ -143,6 +143,8 @@ Menno 아바타의 피부 색상을 다음 3가지 중에서 선택할 수 있�
 - **프리셋 합성**: 여러 프리셋을 동시에 적용하여 새로운 표정 생성
 - **프리셋 공유**: 다른 프로젝트에서 프리셋 파일 사용 가능
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gP3f-5xQ4VU?si=PSrUqrbjxlwPtI_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 자세한 사용법은 다음 가이드를 참조하세요:
 - [🎭얼굴 블렌드 셰이프 프리셋 (빠른 시작)]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - 기본 사용법
 - [🎭얼굴 셰이프 키 프리셋 (상세 가이드)]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - 고급 사용법과 기술 세부사항

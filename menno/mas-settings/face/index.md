@@ -143,6 +143,8 @@ Mennoアバターの肌の色を以下の3種類から選択できます：
 - **プリセットの合成**: 複数のプリセットを同時に適用して新しい表情を作成
 - **プリセットの共有**: プリセットファイルを他のプロジェクトで使用可能
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gP3f-5xQ4VU?si=PSrUqrbjxlwPtI_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 詳しい使い方は以下のガイドをご覧ください：
 - [🎭顔ブレンドシェイププリセット（クイックスタート）]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - 基本的な使い方
 - [🎭顔シェイプキープリセット（詳細ガイド）]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - 高度な使い方と技術詳細

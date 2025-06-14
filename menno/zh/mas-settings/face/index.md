@@ -143,6 +143,8 @@ M. Avatar Setting允许您精细调整Menno虚拟形象的面部表情和混合�
 - **混合预设**：同时应用多个预设以创建新表情
 - **共享预设**：在其他项目中使用预设文件
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gP3f-5xQ4VU?si=PSrUqrbjxlwPtI_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 有关详细用法，请参阅以下指南：
 - [🎭面部混合形状预设（快速入门）]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - 基本用法
 - [🎭面部形状键预设（详细指南）]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - 高级用法和技术细节

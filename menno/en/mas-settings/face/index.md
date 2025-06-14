@@ -143,6 +143,8 @@ A feature that allows you to save your favorite blend shape settings and easily 
 - **Blend Presets**: Apply multiple presets simultaneously to create new expressions
 - **Share Presets**: Use preset files in other projects
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gP3f-5xQ4VU?si=PSrUqrbjxlwPtI_n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 For detailed usage, please refer to the following guides:
 - [🎭Face Blend Shape Preset (Quick Start)]({{ site.baseurl }}/menno/mas-settings/face/preset-quickstart/) - Basic usage
 - [🎭Face Shape Key Preset (Detailed Guide)]({{ site.baseurl }}/menno/mas-settings/face/preset-guide/) - Advanced usage and technical details

@@ -1,12 +1,12 @@
 title: M. Document
 description: M. Avatar シリーズのドキュメント
 theme: just-the-docs
-url: https://mono-meruo.github.io
+url: https://mdocument.github.io
 baseurl: ""
 color_scheme: dark
 aux_links: {}
 footer_content: Copyright &copy; 2025 M.
-github_editme_path: mono-Meruo/MDocument.github.io/edit/main/
+github_editme_path: MDocument/MDocument.github.io/edit/main/
 
 # Polyglot 多言語設定
 languages: ["ja", "en", "ko", "zh"]

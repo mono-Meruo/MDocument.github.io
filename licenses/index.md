@@ -1,13 +1,13 @@
 ---
 layout: custom
-title: ライセンス
+title: M. アバターライセンス
 nav_order: 3
 has_children: true
 permalink: /licenses/
 lang: ja
 ---
 
-# ライセンス
+# M. アバターライセンス
 
 M. Avatarシリーズの各種ライセンスに関するドキュメントです。
 

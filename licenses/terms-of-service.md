@@ -1,7 +1,7 @@
 ---
 layout: custom
 title: 利用規約
-parent: ライセンス
+parent: M. アバターライセンス
 nav_order: 1
 permalink: /licenses/terms-of-service/
 lang: ja

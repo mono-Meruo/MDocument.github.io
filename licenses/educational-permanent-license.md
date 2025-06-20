@@ -1,7 +1,7 @@
 ---
 layout: custom
 title: 非商用プロジェクト向け 永続的利用ライセンス
-parent: ライセンス
+parent: M. アバターライセンス
 nav_order: 2
 permalink: /licenses/educational-permanent-license/
 lang: ja

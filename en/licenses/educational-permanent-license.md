@@ -22,6 +22,7 @@ These terms set forth the conditions for the use of the 3D model (hereinafter re
 1.  The Licensor grants the User a perpetual, non-exclusive license for Target Members within the "Number of Permitted Users" specified by the User to use the Model within the scope of these Terms.
 2.  The User is responsible for appropriately managing the list of Target Members to ensure it does not exceed the Number of Permitted Users. The addition or change of Target Members shall be conducted under the User's responsibility within the scope of the Number of Permitted Users.
 3.  The User is responsible for supervising Target Members to ensure they comply with these Terms.
+4.  Use of this license by a corporation may require a separate contract depending on the scale and content of the project. Please consult the Licensor before purchasing.
 
 ## [Article 3: Permitted Actions]
 1.  **Use in Team Production**: Target Members may share the Model's files and work collaboratively for non-commercial projects.

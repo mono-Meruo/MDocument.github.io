@@ -1,18 +1,18 @@
 ---
 layout: custom
-title: Perpetual License for Non-Commercial Projects
+title: Non-Commercial Project License
 parent: M. Avatar License
 nav_order: 2
 permalink: /licenses/educational-permanent-license/
 lang: en
 ---
 
-Terms of Use for Perpetual License for Non-Commercial Projects
+Terms of Use for Non-Commercial Project License
 
 These terms set forth the conditions for the perpetual use of the 3D model (hereinafter referred to as "the Model") provided by M. (hereinafter referred to as "the Licensor") in non-commercial projects. By purchasing the Model, the User is deemed to have agreed to these terms.
 
 ## [Article 1: Definitions]
-1.  **"This License"**: The perpetual license for non-commercial projects based on these Terms of Use.
+1.  **"This License"**: The non-commercial project license based on these Terms of Use.
 2.  **"User"**: A corporation or any group formed for a specific project that has purchased this License.
 3.  **"Target Member"**: An individual permitted to use the Model under the User's management based on this License.
 4.  **"Number of Permitted Users"**: The maximum number of Target Members permitted to use the Model under this License.

@@ -12,28 +12,27 @@ Terms of Use for Perpetual License for Non-Commercial Projects
 These terms set forth the conditions for the perpetual use of the 3D model (hereinafter referred to as "the Model") provided by M. (hereinafter referred to as "the Licensor") in non-commercial projects. By purchasing the Model, the User is deemed to have agreed to these terms.
 
 ## [Article 1: Definitions]
-1.  **"This License"**: The perpetual use license for non-commercial projects based on these terms of use.
+1.  **"This License"**: The perpetual license for non-commercial projects based on these Terms of Use.
 2.  **"User"**: A corporation or any group formed for a specific project that has purchased this License.
-3.  **"Authorized Member"**: An individual whose name or handle has been declared to the Licensor by the User and who is permitted to use the Model under this License.
-4.  **"Number of Permitted Users"**: The maximum number of Authorized Members permitted to use this License.
+3.  **"Target Member"**: An individual permitted to use the Model under the User's management based on this License.
+4.  **"Number of Permitted Users"**: The maximum number of Target Members permitted to use the Model under this License.
 5.  **"Work"**: Any and all deliverables (videos, still images, games, etc.) created using all or part of the Model.
 
-## [Article 2: Grant of License and Member Management]
-1.  The Licensor grants the User a perpetual, non-exclusive license for the Authorized Members within the "Number of Permitted Users" specified by the User to use the Model within the scope of these terms.
-2.  The User shall declare a list of Authorized Members (names or handles) for the "Number of Permitted Users" to the Licensor at the time of purchase.
-3.  The User is responsible for appropriately managing the list of Authorized Members. If requested by the Licensor, the User is obligated to present it promptly. The addition or change of Authorized Members shall be conducted under the User's responsibility within the scope of the Number of Permitted Users.
-4.  The User is responsible for supervising Authorized Members to ensure they comply with these terms.
+## [Article 2: License Grant and Member Management]
+1.  The Licensor grants the User a perpetual, non-exclusive license for Target Members within the "Number of Permitted Users" specified by the User to use the Model within the scope of these Terms.
+2.  The User is responsible for appropriately managing the list of Target Members to ensure it does not exceed the Number of Permitted Users. The addition or change of Target Members shall be conducted under the User's responsibility within the scope of the Number of Permitted Users.
+3.  The User is responsible for supervising Target Members to ensure they comply with these Terms.
 
 ## [Article 3: Permitted Actions]
-1.  **Use in Team Production**: Authorized Members may share the Model's files and work collaboratively for non-commercial projects.
-2.  **Server Management**: The User may store and manage the Model on a secure (*) shared server within the organization, accessible only to Authorized Members.
+1.  **Use in Team Production**: Target Members may share the Model's files and work collaboratively for non-commercial projects.
+2.  **Server Management**: The User may store and manage the Model on a secure (*) shared server within the organization, accessible only to Target Members.
     *Refers to a state where access is restricted by password, etc., and inaccessible to anyone other than authorized members.
-3.  **Publication of Works**: Authorized Members or the User may publish works for non-commercial purposes.
-4.  **Use in Portfolio**: Authorized Members may, even after participating in the project, publish works they were involved in for their portfolio for non-profit purposes. However, this does not include publishing the work itself as primary paid content.
+3.  **Publication of Works**: Target Members or the User may publish works for non-commercial purposes.
+4.  **Use in Portfolio**: Target Members may, even after participating in the project, publish works they were involved in for their portfolio for non-profit purposes. However, this does not include publishing the work itself as primary paid content.
 5.  **Modification**: Modifications such as adjustments, remodeling, and texture changes of the Model are permitted within the scope of the project's purpose.
 
 ## [Article 4: Prohibited Actions]
-The User shall prohibit the following actions by Authorized Members and supervise them accordingly.
+The User shall prohibit the following actions by Target Members and supervise them accordingly.
 1.  **Use for Other Purposes**: Any use exceeding the scope of non-commercial purposes and permissions granted by these terms.
 2.  **Commercial Use**:
     a. Direct commercial activities using the Model and its works (sales, paid commissions, activities to earn advertising revenue, etc.).

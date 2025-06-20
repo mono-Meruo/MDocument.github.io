@@ -9,7 +9,7 @@ lang: en
 
 Terms of Use for Non-Commercial Project License
 
-These terms set forth the conditions for the perpetual use of the 3D model (hereinafter referred to as "the Model") provided by M. (hereinafter referred to as "the Licensor") in non-commercial projects. By purchasing the Model, the User is deemed to have agreed to these terms.
+These terms set forth the conditions for the use of the 3D model (hereinafter referred to as "the Model") provided by M. (hereinafter referred to as "the Licensor") in non-commercial projects. By purchasing the Model, the User is deemed to have agreed to these terms.
 
 ## [Article 1: Definitions]
 1.  **"This License"**: The non-commercial project license based on these Terms of Use.

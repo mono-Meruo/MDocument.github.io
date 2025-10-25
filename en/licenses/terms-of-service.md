@@ -121,48 +121,54 @@ Permission for the above use includes use for oneself (including use as an avata
 - **H. Use for political or religious activities.**
   - Not permitted.
 
-**(4) Processing**
-- **I. Adjusting, reducing polygons within a range that does not spoil the appearance, and converting file formats.**
+**(4) Use for Meetings and Events**
+- **I. Use for meetings, events, conferences, etc.**
+  - Prior explicit permission from the Licensor (M.) is required.
+  - Includes meeting use on VRSNS, online game platforms, and other platforms.
+  - Permission applications must specify details such as scheduled use date, purpose of use, number of participants, platform to be used, etc., and contact the Licensor.
+
+**(5) Processing**
+- **J. Adjusting, reducing polygons within a range that does not spoil the appearance, and converting file formats.**
   - Permitted.
-- **J. Modifying this Data or its Parts, and using the modified data under the same conditions as this Data (including cases where this Data or its Parts are used as the main body for modification).**
+- **K. Modifying this Data or its Parts, and using the modified data under the same conditions as this Data (including cases where this Data or its Parts are used as the main body for modification).**
   - Permitted.
-- **K. Using this Data or its Parts to modify other data (including cases where this Data or its Parts are used as a subordinate body and another model is used as the main body for modification).**
+- **L. Using this Data or its Parts to modify other data (including cases where this Data or its Parts are used as a subordinate body and another model is used as the main body for modification).**
   - Permitted.
-- **L. Commissioning a third party to perform adjustments or modifications, and lending this Data for that purpose.**
+- **M. Commissioning a third party to perform adjustments or modifications, and lending this Data for that purpose.**
   - Permitted to be done between users.
 
-**(5) Redistribution/Distribution**
-- **M. Redistribution of the unmodified state.**
+**(6) Redistribution/Distribution**
+- **N. Redistribution of the unmodified state.**
   - Not permitted.
-- **N. Distributing the modified Data.**
+- **O. Distributing the modified Data.**
   - Not permitted.
 
-**(6) Use in Media/Products**
-- **O. Use in video works, streaming (including YouTube), and broadcasting.**
+**(7) Use in Media/Products**
+- **P. Use in video works, streaming (including YouTube), and broadcasting.**
   - Permitted.
-- **P. Use in publications and electronic publications.**
+- **Q. Use in publications and electronic publications.**
   - Permitted.
-- **Q. Use in physical goods (merchandise).**
+- **R. Use in physical goods (merchandise).**
   - Permitted.
-- **R. Embedding in software (including games) for product development, etc., in a state where it cannot be easily extracted, and distributing it.**
+- **S. Embedding in software (including games) for product development, etc., in a state where it cannot be easily extracted, and distributing it.**
   - Permitted.
 
-**(7) Derivative Works**
-- **S. Creating costume data, etc., for this Data by copying its mesh or weights (excluding cases where the modification is significantly minor).**
+**(8) Derivative Works**
+- **T. Creating costume data, etc., for this Data by copying its mesh or weights (excluding cases where the modification is significantly minor).**
   - Distribution, etc. (including dissemination and transmission) is permitted for both for-profit and non-profit purposes.
-- **T. Creating new costume data, texture data, etc., that conform to the specifications of this Data without using its mesh or weights.**
+- **U. Creating new costume data, texture data, etc., that conform to the specifications of this Data without using its mesh or weights.**
   - Distribution, etc. (including dissemination and transmission) is permitted for both for-profit and non-profit purposes.
-- **U. Creating derivative works based on the motif of this Data without using it as is (so-called fan fiction).**
+- **V. Creating derivative works based on the motif of this Data without using it as is (so-called fan fiction).**
   - Distribution, etc. (including dissemination and transmission) is permitted for both for-profit and non-profit purposes.
 
-**(8) Other**
-- **V. Credit notation when used.**
+**(9) Other**
+- **W. Credit notation when used.**
   - Required.
-- **W. Assignment of rights and obligations, etc.**
+- **X. Assignment of rights and obligations, etc.**
   - Not permitted.
 
 ### 3. Special Notes
-- **X. Special Notes**
+- **Y. Special Notes**
   - Refunds are not possible.
 
 ### 4. The Licensor and Contact Information

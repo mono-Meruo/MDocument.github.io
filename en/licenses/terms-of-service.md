@@ -122,7 +122,7 @@ Permission for the above use includes use for oneself (including use as an avata
   - Not permitted.
 
 **(4) Use for Meetings and Events**
-- **I. Use for meetings, events, conferences, etc.**
+- **I. Use for meetings, events, etc.**
   - Prior explicit permission from the Licensor (M.) is required.
   - Includes meeting use on VRSNS, online game platforms, and other platforms.
   - Permission applications must specify details such as scheduled use date, purpose of use, number of participants, platform to be used, etc., and contact the Licensor.
